@@ -1,0 +1,718 @@
+model,strategy,promt,fre,fkgl,wiener,avg_word_length,avg_sentence_length,words_per_sentence,avg_syllables_per_word,polysyllables,output,promts
+german_gpt,contrastive,Das,71.0,9.3,5.0,4.78,15.4,15.4,1.6,10,"Das Wort ""Bären"" ist eine Abkürzung für Bären.
+Sie leben in der Nähe von einem Zoo und haben sich an den Zaun geklammert, um zu sehen: Wie kann man sie schützen?   Das heißt: Man darf nicht mit ihnen spielen oder auf andere Menschen einwirken!
+Der Besitzer des Zoos sagt dazu: Wir sind die Tiere sehr wichtig bei einer Rettung aus dem Wasser-Verhungerung geworden. Außerdem brauchen wir Hilfe beim Schutz vor Angriffen durch Wölfe wie zum Beispiel Wildtiere",Das
+german_gpt,beam,Das,66.9,8.7,7.9,5.54,7.8,7.777777777777778,1.8,19,"Das Bundes-Verfassungs-Ministerium ist eine Bundes-Regierung.
+Das heißt: Die Regierung ist die Regierung von Deutschland.
+Die Regierung ist das oberste Bundes-Amt.
+Sie hat die Aufgabe, die Verfassung zu schützen.
+Der Präsident von Deutschland ist der Bundes-Präsident.
+Er hat das Amt seit dem 1. Januar 2017.
+In der Verfassung steht: Die Verfassung ist eine Verfassung.
+Es gibt Gesetze, die die Verfassung schützen sollen.
+Zum Beispiel die Gesetze zum Beispiel zum Schutz von",Das
+german_gpt,sampling,Das,65.85,10.2,5.9,5.36,14.7,14.666666666666666,1.7,13,"Das Land USA hat ein neues Gesetz verabschiedet.
+Es ist das wichtigste amerikanische Gericht in dem Jahr seit langem: Es entscheidet über die Todesstrafe für Menschen, denen es nicht gefällt oder weil sie sich an eine bestimmte Person erinnern können und deshalb hingerichtet werden wollen. Das neue Recht soll auch den Opfern helfen, ihre Strafe zu bezahlen. In der Regel sollen Täter bestraft wird. Die Richter müssen dann entscheiden, ob jemand einen bestimmten Grund dafür hatte.
+Die Strafen sind unterschiedlich hoch; zum Beispiel wegen Verbrechen gegen Frauen mit",Das
+german_gpt,contrastive,Das,74.0,8.1,3.5,4.74,12.4,12.428571428571429,1.6,7,"Heute hat ein Mann in einem Hotel eine Frau getötet.
+Er war betrunken und wollte sie heiraten, weil er mit seiner Freundin geschlafen hatte. Das ist passiert: Der Ehemann von der Ehefrau wurde schwer verletzt!  Sie haben gesagt: Wir glauben fest daran dass es einen Unfall gegeben hätte. Die Polizei sucht nach dem Täter noch immer viele Menschen auf den Straßen um die Frauen zu finden. Sie wollen wissen warum sich bei uns Sorgen gemacht?
+Und wir hoffen das Beste für alle Beteiligten an diesem Streit sind",Heute
+german_gpt,beam,Das,79.5,6.0,4.0,5.03,6.9,6.909090909090909,1.6,8,"Heute ist eine Stadt in Deutschland.
+Sie heißt Berlin.
+Die Stadt Berlin ist eine deutsche Stadt.
+In Berlin leben viele Menschen.
+Viele Menschen haben Angst vor der Polizei.
+Und viele Menschen wollen nicht, dass ihre Wohnung durchsucht wird.
+Deshalb hat die Polizei gesagt: Die Polizei hat die Wohnung durchsucht.
+Das heißt: Die Wohnung ist nicht sicher.
+Aber die Polizei hat gesagt: Wir haben die Wohnung gefunden.
+Wir haben die Polizei gerufen.
+Dann haben wir gesagt: Das",Heute
+german_gpt,sampling,Das,68.55,9.2,5.5,5.13,12.0,12.0,1.7,13,"Heute ist ein großes Fest.
+Das heißt: Es gibt viele Menschen, die sich für den Umweltschutz einsetzen wollen und deshalb in der Stadt leben müssen. Die meisten von ihnen sind Rentner oder Pensionäre aus anderen Ländern wie Deutschland. Viele haben auch einen Job gefunden. In vielen Städten arbeiten sie als Angestellte mit Behinderung, weil es dort keine Arbeit mehr geben wird.
+Viele Leute können nicht genug Geld verdienen.
+Die Regierung hat gesagt: Wir brauchen eine neue Regelung zum Schutz vor Armut im Land Österreich!",Heute
+german_gpt,contrastive,Das,64.35,10.8,6.4,5.42,16.2,16.2,1.7,12,"Wir haben ein Problem.
+Es gibt eine Firma namens Panda-Virus, die in den USA arbeitet und Medikamente herstellt. Die Firmen sind von dem Virus betroffen worden. Das heißt: Sie arbeiten mit Menschen zusammen oder es ist gefährlich für sie selbst wenn man sich ansteckt (zum Beispiel bei der Arbeit auf einem Krankenbett) Man kann nicht sicher sein). In Deutschland hat das Bundeskriminalamt herausgefunden, dass viele Patienten über einen Impfstoff gegen diese Krankheit Bescheid wissen müssen – deshalb muss jeder Arzt impfen lassen",Wir
+german_gpt,beam,Das,84.75,5.0,1.1,4.73,7.5,7.5,1.5,3,"Wir ist eine Stadt in Deutschland.
+Sie ist in der Nähe von Berlin.
+Die Stadt Berlin ist eine Bundes-Stadt.
+Das heißt: Die Stadt Berlin gehört zu den Bundes-Ländern.
+In Berlin leben viele Menschen.
+Und die Menschen sind sehr stolz auf die Stadt.
+Viele Menschen haben gesagt: Die Menschen sind stolz auf Berlin.
+Und sie haben sich gefreut.
+Aber die Menschen haben auch gesagt: Das ist nicht so.
+Deshalb haben viele Menschen gesagt: Wir sind stolz",Wir
+german_gpt,sampling,Das,82.15,6.0,2.1,4.52,10.1,10.125,1.5,7,"Wir ist ein Mann.
+Er hat einen Sohn bekommen, der ihm sehr gut gefällt und ihn großgezogen wurde: Er heißt David.David.
+Seine Eltern haben sich getrennt, um den Jungen zu versorgen. Die beiden leben jetzt in einem Haus auf dem Land USA mit ihren Kindern zusammen. Das Paar lebt dort im Moment noch bei seiner Familie. In diesem Jahr sollen die Kinder nach Hause kommen.  Sie wollen das Baby besuchen.
+Die Mutter von Davids Vater sagt dazu auch: Sie will nicht",Wir
+german_gpt,contrastive,Das,52.7,14.2,9.0,5.32,22.0,22.0,1.8,19,"Die Türkei hat einen neuen Präsidenten.
+Er ist seit dem Jahr 2014 gewählt worden, nachdem er die Wahlen gewonnen hatte und in der Stichwahl gegen den Kandidaten Recep Tayyip Erdogan verloren haben musste. Der Präsident von Syrien heißt Mohammed Abdel-Fälle sind bekannt geworden: In Deutschland gibt es Proteste wegen seiner Politik im Land USA, dass viele Menschen auf Grund des Wahlrechts gestorben waren. Die Polizei sagt aber auch über das Wahlergebnis nicht sicher aus oder weiß nichts mit Sicherheit sagen, ob es sich um eine politische Entscheidung handelt.",Die Türkei
+german_gpt,beam,Das,84.95,5.0,2.1,4.55,7.3,7.272727272727272,1.5,7,"Die Türkei ist ein Land in Europa.
+Das Land Türkei ist das größte Land der Welt.
+Die Türkei liegt in der Türkei.
+Sie ist ein kleines Land in Asien.
+In der Türkei gibt es viele Menschen.
+Viele Menschen leben in Städten.
+Und viele Menschen arbeiten dort.
+Zum Beispiel in der Stadt Istanbul.
+Dort gibt es einen großen Flughafen.
+Der Flughafen Istanbul ist der größte Flughafen der Welt, der von der Türkei gebaut wurde.
+Es gibt einen Flughafen in Europa, der",Die Türkei
+german_gpt,sampling,Das,65.55,10.3,6.0,5.13,15.0,15.0,1.7,14,"Die Türkei hat die Wahlen gewonnen.
+Sie haben gesagt: Wir wollen nicht mehr regieren, weil wir Angst vor der Wahl hatten und es sehr schwierig war zu wählen. Die Menschen wollten wissen warum Erdogan gewählt wurde. Das ist eine Demokratie in dem Land Syrien.
+Das bedeutet aber auch: Es gibt viele Probleme im Staat Israel, dass man sich an den demokratischen Regeln hält. In vielen Städten herrscht Krieg zwischen Muslimen aus verschiedenen Ländern wie Ägypten oder Iran mit arabischen Staaten über das Zusammenleben von Juden auf einem Gebiet namens Palästina-",Die Türkei
+german_gpt,contrastive,Das,76.1,9.5,4.0,4.39,22.0,22.0,1.4,8,"Dieses Haus in der Stadt New York ist ein berühmtes Museum.
+Es zeigt Menschen aus aller Welt, die im 19 Jahrhundert gelebt haben: Die Geschichte von den USA geht bis ins Jahr 1776 zurück und erzählt vom Land Amerika vor mehr als 100 Jahren auf einer Reise durch Europa mit einem Schiff nach Hause oder an Bord des Schiffes ""Titan"". Das Wort Titan bedeutet so viel wie „Eis-Schiff“. In dem Buch heißt es auch über das Eis fahrender Mensch kann man lesen, dass er eine Insel besucht hat;",Dieses Haus
+german_gpt,beam,Das,84.95,5.0,1.2,4.68,7.3,7.272727272727272,1.5,2,"Dieses Haus ist ein großes Haus.
+Es ist ein kleines Haus in der Nähe von der Stadt New York.
+Das Haus ist in einem Viertel von New York City.
+Dort wohnen viele Menschen.
+Viele Menschen wohnen dort.
+Und viele Menschen arbeiten hier.
+Sie wohnen in Häusern.
+Die meisten Menschen sind sehr arm.
+Manche Menschen haben Angst vor dem Haus, weil sie sich dort nicht sicher fühlen.
+Deshalb haben viele Menschen gesagt: Das Haus ist sehr gefährlich.
+Aber viele Menschen haben",Dieses Haus
+german_gpt,sampling,Das,75.1,7.7,4.2,4.68,11.3,11.25,1.6,12,"Dieses Haus ist ein altes Gebäude.
+Es wurde im Jahr 1670 gebaut und war lange Zeit das Heim der Familie von Königin Elisabeth II. Das Schloss gehörte zu den berühmtesten Häusern in Großbritannien, die sich um ihre Kinder kümmerten. Es stand auf dem Land England, wo sie lebten. In diesem Hause lebte auch ihr Mann Prinz Philip mit seiner Frau Queen Elizabeth zusammen. Die beiden wohnten dort bis zum Tod ihres Mannes am 18 Jahre alt. Im 19 Jahrhundert wohnte Königin Mary immer wieder bei ihren Kindern. Später zog sie",Dieses Haus
+german_gpt,contrastive,Das,74.5,7.9,3.8,4.75,11.9,11.857142857142858,1.6,10,"Mein Vater ist tot.
+Er hat einen Brief geschrieben, in dem er seine Familie um Hilfe bittet: ""Ich möchte mit meinem Sohn leben."" Das heißt: Der Junge lebt bei seiner Mutter und seinen Eltern im Ausland auf der Welt-Insel Mallorca oder Spanien.
+In Deutschland gibt es ein Gesetz gegen Kinder aus einem Land, das die Rechte von Kindern schützen soll. Es geht darum zu verhindern, dass sie nach Europa kommen können.  Das Bundeskabinett beschloss am 12., Juli 2016 eine Änderung des Gesetzes für",Mein Vater
+german_gpt,beam,Das,103.6,1.0,-0.4,4.2,6.2,6.166666666666667,1.2,4,"Mein Vater ist tot.
+Er hat einen Sohn bekommen.
+Und er ist jetzt ein Junge.
+Jetzt hat er einen Sohn.
+Das heißt: Der Junge ist jetzt erwachsen.
+Der Junge hat jetzt eine Tochter.
+Sie heißt Mia.
+Aber Mia ist noch nicht geboren.
+Die Mutter sagt: Mia ist jetzt sehr krank.
+Deshalb hat Mia gesagt: Mia hat jetzt einen Sohn, der noch nicht groß ist.
+Dann hat Mia einen Jungen.
+Mia ist jetzt schon erwachsen.",Mein Vater
+german_gpt,sampling,Das,77.1,6.9,3.2,4.55,9.3,9.333333333333334,1.6,11,"Mein Vater ist tot.
+Er hat sich selbst getötet und wurde von einem Auto überfahren. Er war ein Unfall-Fahrer, der mit seinem Wagen auf dem Weg nach Hause gefahren sein soll. In diesem Moment fuhr er in eine Stadt im Norden des Landes USA. Dort wollte seine Tochter abholen, um sie zu besuchen. Die Polizei fand die Leiche seiner Mutter am Straßenrand gefunden. Der Mann hatte gesagt: ""Ich habe mich umgebracht."" Das heißt: Ich bin nicht mehr da gewesen"". Später sagte der Täter aus",Mein Vater
+german_gpt_orig,contrastive,Das,99.4,2.6,-0.3,4.08,10.4,10.428571428571429,1.2,2,"Das ist ein sehr guter Anfang.
+Ich habe es nicht so gemeint, aber ich bin mir sicher... dass du das auch meinst! ""Es tut uns leid"" klingt gut und wir werden sehen wie viel Spaß ihr habt."" - Seht mal hier herüber: Die Sonne scheint in den Himmel hinein; die Wolken sind blauer als der Mond auf dem Mars!"" (lacht) Und dann? ""...und wieder?""...das war's für heute Abend um halb eins Uhr morgens...""(Lacht:) Ja",Das
+german_gpt_orig,beam,Das,104.5,0.6,-2.6,3.33,5.3,5.25,1.2,0,"Das ist eine gute Idee.
+Ich habe eine Idee, wie wir das machen können.
+- Was ist das?
+- Ich weiß nicht.
+Es ist eine Art...
+- Eine Art, wie man es machen kann.
+Das ist gut.
+Ja, das ist es.
+Okay.
+Also, was ist es?
+Ich weiß nicht, was es ist, aber es ist...
+Ich meine, es ist ein...
+Es... es ist eine...
+Eine Art...",Das
+german_gpt_orig,sampling,Das,60.55,12.3,6.6,5.25,20.0,20.0,1.7,12,"Das ist ein sehr guter Vorschlag.
+Ich möchte Sie bitten, die Kommission zu fragen: Ist es nicht möglich? - Ich weiß nichts davon! -, daß der Rat sich in dieser Frage noch weiter mit dem Parlament auseinandergesetzt hat und auch weiterhin über den Haushalt diskutieren wird; ich glaube aber doch an eine gewisse Kontinuität zwischen diesen beiden Institutionen im Hinblick auf das Problem des Haushalts plans für 1984/85 sowie darauf hin- wie dies bei anderen Gelegenheiten geschehen sein mag (siehe Protokoll). ßens)...",Das
+german_gpt_orig,contrastive,Das,34.85,17.9,12.3,6.51,22.3,22.33333333333333,2.1,21,"Heute ist der ""Bärenwald"" ein beliebtes Ausflugsziel.
+Die Gemeinde liegt an den Bundesstraßen B 3 und A 9, die beide in nordwestlicher Richtung verlaufen; sie sind über eine Umgehungsstraße erreichbar (Autobahnausfahrt Bad Segeberg). Die Bundesautobahn 7 verläuft etwa fünf Kilometer südlich des Ortes vorbei am Autobahnkreuz Elmshorn-Nord auf dem Gemeindegebiet von Plön gelegener Anschlussstellenkreuzungspunkt für das Fernstraßennetz im Kreis Schleswig Holstein sowie einer Anschlussstelle zur Bundesstraße 4",Heute
+german_gpt_orig,beam,Das,97.15,2.4,-1.0,4.0,6.8,6.777777777777778,1.3,2,"Heute ist er der einzige, der noch lebt.
+Er ist der Einzige, der sich um ihn kümmert.
+Ich weiß nicht, was ich tun soll.
+Es tut mir leid, dass ich dir nicht helfen konnte.
+Aber ich kann dir helfen.
+Du kannst mir helfen, wenn du willst.
+- Ich kann nicht.
+Bitte, bitte, bitte...
+- Nein, nein, nein.
+Nein, nein!
+Bitte!
+Nein!
+- Bitte, bitte!
+",Heute
+german_gpt_orig,sampling,Das,52.4,16.6,8.0,4.62,34.0,34.0,1.6,10,"Heute ist der Ort ein beliebter Ferienort.
+Die Gemeinde liegt am Fuße des Berges ""Pizzo di Sotto"" (2'980 m), auf dem sich die Kirche San Giovanni dei Fiori befindet, und hat eine Fläche von 5 km² mit einer maximalen Ausdehnung in Nord-Süd Richtung bis zu 2km im Westen sowie 1/3 an den Hängen zum Monte Panao hin; sie grenzt außerdem direkt ans Val d’Ambra: Die Nachbargemeinden sind Coghinasca",Heute
+german_gpt_orig,contrastive,Das,44.15,14.3,9.6,6.17,13.0,13.0,2.1,15,"Wir haben uns in der Vergangenheit immer wieder gegenseitig unterstützt.
+Die Polizei hat die Ermittlungen aufgenommen und bittet um Hinweise unter 02241/5413221 oder per E-Mail an lfz@polizei.nrw.. dh Foto: Axel Heimken / dpa Picture Alliance (Symbolbild) Bild 2 © Bernd von Jutrczenka Photography GmbH & Co KG Fotomarathon 2018, Frankfurt am Main - www.bilderaachen2018Pleasurement of female",Wir
+german_gpt_orig,beam,Das,104.8,0.5,-1.1,3.84,5.0,5.0,1.2,0,"Wir haben es geschafft.
+Ich habe es geschafft!
+Ich hab's geschafft. ich hab es geschafft, ich hab's!
+Wir haben's geschafft, wir haben es...
+- Wir haben es!
+- Ja!
+Ja!
+Oh, mein Gott.
+- Oh, Gott!
+Was ist das?
+- Das ist ein Geschenk.
+Es ist für dich.
+Für mich?
+Ja, es ist für mich.
+Ja.
+Danke.
+Vielen Dank.",Wir
+german_gpt_orig,sampling,Das,38.15,16.6,12.2,6.11,19.0,19.0,2.1,18,"Wir haben uns in der Vergangenheit immer wieder gegenseitig unterstützt.
+Die Polizei hat die Ermittlungen aufgenommen und bittet um Hinweise unter Telefon 0202/284-0, da sich ein Unbekannter am Dienstagnachmittag an einem geparkten Pkw zu schaffen gemacht hatte (Symbolbild). red Quelle: dpa Picture Alliance / picture alliance  Foto 1 © imago stock&people;dpa &redpixa© ap1xAdeMessere - Messerespender für den Mann aus dem",Wir
+german_gpt_orig,contrastive,Das,48.0,13.9,7.8,5.73,15.0,15.0,2.0,14,"Die Türkei hat die Kurdenmiliz YPG in Nordsyrien mit Luftangriffen und Artilleriefeuer aus dem Norden unterstützt.
+Der Grund: Die Stadt will das Areal für den Bau von Wohnhäusern nutzen, um dort Gewerbe ansiedeln zu können - unter anderem ein Logistikzentrum der Firma DHL-Group an einem neuen Standort im Gewerbegebiet ""Am Wald"". (mz) /Fotoblog/Archivfoto vom 28./29 Mai 2018 Foto © dpaPhobien & GingrichPilzinfektion ist",Die Türkei
+german_gpt_orig,beam,Das,72.4,8.8,4.5,4.82,14.0,14.0,1.6,12,"Die Türkei hat sich in den vergangenen Jahren zu einem wichtigen Handelspartner der EU entwickelt.
+Die Türkei ist ein wichtiger Handelspartner für die Europäische Union.
+Der Handel mit der Türkei ist in den letzten Jahren stark gewachsen.
+In den letzten zehn Jahren hat sich der Handel zwischen der Türkei und der EU mehr als verdreifacht.
+Im Jahr 2005 betrug der Anteil der Türkei an den gesamten EU-Ausfuhren in die EU 15 rund 25%.
+Die EU-Einfuhren aus der Türkei sind in den ersten zehn Jahren",Die Türkei
+german_gpt_orig,sampling,Das,47.4,14.1,7.5,5.68,15.6,15.6,2.0,16,"Die Türkei hat die EU-Beitrittsverhandlungen mit der Europäischen Union aufgenommen.
+Der Präsident des Bundesamtes für Verfassungsschutz, Hansjörg Müller (CDU), sagte am Montag in Berlin: ""Es ist nicht hinnehmbar und es muss Konsequenzen geben"". Die AfD habe sich von Anfang an gegen eine Beobachtung gewehrt - auch aus dem Ausland -, aber sie sei bereit gewesen zu gehen; das müsse man akzeptieren können! (...) Es gibt keine Alternative zur Zusammenarbeit zwischen den Sicherheitsbehörden im Bund oder bei uns!"" Der Vorsitzende Richter Michael",Die Türkei
+german_gpt_orig,contrastive,Das,56.4,12.8,9.4,5.44,18.3,18.25,1.8,17,"Dieses Haus ist ein wunderbares Beispiel für die Architektur der Renaissance.
+Es wurde im 15./16 Jahrhundert erbaut und hat eine schöne Fassade mit einem großen Fenster, das von einer Balustrade umrahmt wird; es gibt auch einen kleinen Garten in dem sich Blumenbeete befinden (eingezäunt).Das Gebäude befindet suggestiv über den Straßen des Viertels San Martino di Castrozza gelegen: Es besteht aus zwei Teilen – eines auf jeder Seite sowie drei Seiten angrenzend - wo man spazieren",Dieses Haus
+german_gpt_orig,beam,Das,68.65,9.1,7.3,5.24,11.9,11.857142857142858,1.7,18,"Dieses Haus wurde im Jahre 1764 erbaut.
+Es ist ein typisches Beispiel für die Architektur des Barocks.
+Das Haus ist ein schönes Beispiel für den Baustil des Barock.
+Im Erdgeschoss befindet sich das Wohnzimmer mit Kamin, die Küche, das Schlafzimmer und das Badezimmer.
+In der ersten Etage befinden sich zwei Schlafzimmer und ein Badezimmer mit Dusche und Toilette.
+Die Küche ist mit dem Wohnzimmer verbunden.
+Auf der zweiten Etage befindet sich ein Schlafzimmer mit einem Doppelbett und einem Einzelbett, das Badezimmer ist mit",Dieses Haus
+german_gpt_orig,sampling,Das,64.15,10.9,6.4,5.0,16.4,16.4,1.7,14,"Dieses Haus ist ein sehr schönes, altes Gebäude.
+Es hat eine schöne Terrasse mit Gartenmöbeln und einen großen Pool (10 x 5 m).Das Anwesen verfügt über zwei Schlafzimmer: eines für die Kinder von 6-8 Jahren sowie eins im Erdgeschoss oder 1 Stockbett in einem kleinen Wohnzimmer auf der ersten Etage des Hauses gelegen; das andere Zimmer kann als Schlafsofa genutzt werden.Die Küche befindet sich oben an den Wänden, so dass Sie auch kochen können wie zu Hause fühlen!Der große Swimmingpool bietet Ihnen",Dieses Haus
+german_gpt_orig,contrastive,Das,86.9,5.3,0.4,4.07,11.2,11.166666666666666,1.4,3,"Mein Vater war ein guter Mann.
+Er hat mir alles beigebracht, was ich wissen muss und das ist mein Leben gewesen... bis er starb als es Zeit für mich wurde zu gehen! sagte sie immer wieder: ""Ich will nicht mehr leben!"" aber dann kam der Tag an dem ihr Herz zersprang - die ganze Welt weinte über ihn wie eine Erleuchtung in seinem Herzen..."" (Sûra 4 :16). 一分王の�",Mein Vater
+german_gpt_orig,beam,Das,107.35,0.6,-1.8,3.76,8.3,8.333333333333334,1.1,0,"Mein Vater war ein guter Mann.
+Er war ein sehr guter Mann, aber er war auch ein sehr schlechter Mensch.
+Und er war sehr, sehr dumm.
+Aber er war nicht dumm, er war nur ein guter Mensch, und er war kein schlechter Mensch, weil er ein sehr netter Mensch war.
+Das ist alles.
+Ich bin froh, dass du hier bist.
+Es ist schön, dich zu sehen.
+Ja, das ist es.
+Du hast mir gefehlt.
+- Ich",Mein Vater
+german_gpt_orig,sampling,Das,88.8,4.6,2.0,4.18,9.3,9.285714285714286,1.4,5,"Mein Vater war ein guter Mann.
+Er hat mir alles beigebracht, was ich wissen muss und das ist mein Leben gewesen... bis er starb als es passierte!)."" (1 Korinther 5:16) ""Und Gott sprach zu ihm:"" Du sollst nicht falsch Zeugnis reden wider deinen Nächsten!""(2 Timotheus 2 :5-6; 1 Petr 3::3 - 4 Petrus 6): ""... daß du dich bekehrst von den Götzen der Menschen."" (""Epheser 7"": 19",Mein Vater
+wechsel,contrastive,Das,61.5,10.8,7.2,5.35,13.2,13.166666666666666,1.8,18,"Das Land USA hat eine neue Regierung.
+Die Regierungs-Chefin heißt Donald Trump. Sie ist seit dem Jahr 2016 die erste Frau, der ein Präsident zustimmt und ernennt ihn zum Präsidenten von den Vereinigten Staaten of America (USA). Das bedeutet: Er wird neuer Chef vom Weißen Haus in Washington, das am 1., 2.. April eröffnet wurde."" Damit meint man alle wichtigen Politiker aus allen Bundesstaaten des amerikanischen Kontinents zusammen mit ihren Amtskollegen im Repräsentantenhaus oder bei einer Kongresswahl für einen",Das
+wechsel,beam,Das,90.6,3.9,2.0,4.61,7.5,7.5,1.4,4,"Das deutsche Fußball-Team hat gegen die Mannschaft aus dem Land Frankreich mit 2 zu 0 gewonnen.
+Das Spiel war in der Stadt Lyon.
+Die Tore für Frankreich schoss Toni Kroos.
+Der Trainer von Frankreich heißt Didier Deschamps.
+Er hat gesagt: Das Spiel war sehr wichtig für uns.
+Wir haben sehr gut gespielt.
+Aber wir haben zu viele Fehler gemacht.
+Deshalb haben wir das Spiel verloren.
+Es war ein sehr wichtiges Spiel.
+In Lyon haben wir",Das
+wechsel,sampling,Das,45.7,17.0,9.6,5.39,29.0,29.0,1.8,19,"Das Land USA hat einen neuen Präsidenten.
+Er heißt Donald Trump. Er ist der Chef von dem Weißen Haus in Washington, das war im Jahr 2016, als Barack Obama Präsident wurde und er die Präsidentschafts-Wahl gewonnen hatte: Das WeißeHaus liegt auf einem Hügel über den amerikanischen Bundesstaaten Colorado bis zum Meer vor Alaska In diesem Gebiet leben ungefähr 1 Million Menschen mit einer Behinderung oder ohne Behinderungen zusammen Die meisten Amerikaner sind gehörlos aber auch sehr viele andere haben eine geistige Beeinträchtigung wie etwa Autismus Oder sie",Das
+wechsel,contrastive,Das,61.9,10.6,4.0,5.42,12.8,12.8,1.8,9,"Heute gibt es eine neue Internet-Seite.
+Auf der Seite www.weddingpaperbookingcom/ kann man ein Foto von sich selbst machen und auf einem Computer speichern lassen: Man muss dazu nicht viel Geld ausgeben, um das zu tun! Es kostet nur 10 Cent pro Bild oder 100 Euro für die Datei (das sind 1 bis 2 Seiten). Außerdem ist diese Internetseite kostenlos im Netz verfügbar unter https://www1awandgreeneasyprogramshannover2017?page=5",Heute
+wechsel,beam,Das,85.15,4.9,2.3,4.23,7.1,7.1,1.5,10,"Heute ist Welt-Down-Syndrom-Tag.
+Er ist ein Welt-Tag für Menschen mit Down-Syndrom.
+Der Tag ist jedes Jahr am 1. Mai.
+In diesem Jahr ist der Tag in der Stadt New York.
+New York ist die Haupt-Stadt von den USA. In New York gibt es viele berühmte Museen.
+Zum Beispiel das National Museum of Modern Art.
+Oder das Museum of Fine Arts.
+Und das Museum für moderne Kunst.
+Das Museum ist in der",Heute
+wechsel,sampling,Das,70.0,9.7,4.3,5.01,16.4,16.4,1.6,10,"Heute ist Tag der Liebe.
+Und dieser Welt-Tag wird jedes Jahr am 1., 2.. und 3.-Mai gefeiert: Der Valentinstag. Und auch heute gibt es noch viele andere schöne Dinge zu feiern, zum Beispiel ein Geburtstagsgeschenk oder eine Weihnachtsgeschichte für die Familie mit ihren Freunden in den USA, Kanada Oder man feiert seinen Geburtstag im Kreise seiner Freunde auf dem Land Australien In diesem Video kann jeder sehen wie er sich selbst einen Valentinstagsspruch machen muss : Was macht ihr? Wie geht das? Welche",Heute
+wechsel,contrastive,Das,74.8,7.8,4.8,5.21,11.6,11.571428571428571,1.6,11,"Wir gibt es viele Gründe, warum Menschen krank werden.
+Zum Beispiel: Die Krankheit ist zu spät erkannt worden? Sie hat sich nicht mehr gut angefühlt und das Blut kann noch schlechter durch die Adern gefrieren als sonst.  Es sind sehr starke Schmerzen in den Beinen da! Viele Ärzte sagen auch ""schmerzende Beine"". Was können wir dagegen tun? In der Medizin heißt man Patienten mit einer akuten oder chronischen Erkrankung nur dann behandeln wenn sie Beschwerden haben wie zum Bespiel Herz-Kreislaufprobleme, Krebsvor",Wir
+wechsel,beam,Das,73.15,7.4,5.1,5.05,7.4,7.4,1.7,13,"Wir hat eine Umfrage gemacht.
+Bei der Umfrage haben die Menschen gesagt: Wir wollen mehr Geld.
+Und wir wollen mehr Kinder.
+Die Umfrage ist im Internet.
+Sie wollen wissen: Was wollen die Menschen mit der Umfrage erreichen?
+Dann klicken Sie hier.
+Hier können Sie die Umfrage lesen.
+Und hier können Sie mehr über die Umfrage erfahren.
+Sie möchten mehr Nachrichten zum Corona-Virus lesen?
+Mehr Informationen über das Robert Koch-Institut finden Sie hier.
+Das Robert",Wir
+wechsel,sampling,Das,55.9,13.0,8.3,5.31,18.8,18.75,1.8,17,"Wir ist eine Organisation.
+Sie hilft Menschen in Not bei der Suche nach einem neuen Job. Sie unterstützt sie dabei, einen passenden Beruf zu finden und sich für den richtigen einzustellen: zum Beispiel als Pflege-Arbeiter oder Pflegerin im Altenheim, zur Arbeit mit Kindern beim Arzt Oder auch um ein Studium abzuschließen Die Abkürzung dafür heißt ""Ombudsman"". ・Das sind die Mitglieder von Oombuden Man (Organisation) Das Wort Ombo kommt aus dem Lateinischen Und bedeutet auf Deutsch",Wir
+wechsel,contrastive,Das,58.45,10.9,7.8,5.68,10.4,10.428571428571429,1.9,17,"Die Türkei hat eine Untersuchung über das Corona-Virus gemacht.
+Sie wollen wissen: Hat die türkische Regierung ein Virus? Oder nicht?.Rassismus ist jemand, der Menschen schlecht behandelt und sie in Gefahr bringt (zum Beispiel durch Gewalt).Viele Türken sind gegen Ausländer oder für ihre Religion.Und viele Türkinnen haben Angst vor anderen Ländern wie Russland, China etc..Darum sagen manche von ihnen ""Islamischer Staat"".Oder man sagt auch so etwas aus dem Land Syrien : ISIS Der Islamische Staatsführer",Die Türkei
+wechsel,beam,Das,74.55,6.8,3.7,4.94,6.0,6.0,1.7,11,"Die Türkei ist ein Land in Europa.
+Die Türkei gehört zur Europäischen Union.
+In der Türkei gibt es viele verschiedene Religionen.
+Zum Beispiel die Christen.
+Und die Muslime.
+Der Präsident von der Türkei heißt Recep Tayyip Erdogan.
+Er hat gesagt: Die Türkei ist eine Demokratie.
+Das heißt: Die Menschen in der Türkei sind frei.
+Sie können wählen.
+Oder sie können frei entscheiden.
+Es gibt auch eine Religion.
+Diese Religion heißt Islam.
+Islam",Die Türkei
+wechsel,sampling,Das,63.35,11.2,6.4,5.14,17.2,17.2,1.7,14,"Die Türkei hat ein wichtiges Treffen in der Stadt Istanbul abgesagt.
+Das ist die Haupt-Stadt von dem Land Syrien. Das Treffen war im türkischen Konsulat, das heißt: Es gab keine Gespräche mit den Menschen dort und auch kein Gespräch über ihre Rechte oder Pflichten bei einem Besuch aus Deutschland, wie es bisher üblich gewesen wäre."" Die türkische Regierung sagt aber nicht Nein zu diesem Verbot für Journalisten vom Sender ""Tirol"". Sie will damit erreichen dass sich alle Journalistinnen an diese Regeln halten müssen um frei arbeitende",Die Türkei
+wechsel,contrastive,Das,75.85,8.5,3.8,4.66,16.4,16.4,1.5,6,"Dieses Haus in der Stadt New York ist ein großes Gebäude.
+Es hat eine große Fenster-Tür mit vielen Fenstern und einen großen Dachstuhl. Das heißt: Es steht auf einem Hochhaus, das sehr groß gebaut wurde (über 100 Jahre alt). In dem Bau waren viele berühmte Architekten von den USA, die für ihre Ideen berühmt sind wie zum Beispiel William Butler Rockefeller oder Richard Branson Jr., sie haben auch viel Geld dafür bezahlt dass es so etwas gibt : Sie wollten nicht immer alles",Dieses Haus
+wechsel,beam,Das,86.95,4.2,2.2,4.63,5.3,5.25,1.5,5,"Dieses Haus ist ein Haus.
+In dem Haus leben 2 Menschen.
+Die 2 Menschen wohnen in einem Haus.Und die 2 Menschen leben in einem Garten.
+Das Haus ist in der Nähe von einem Park.
+Und das Haus ist im Stadt-Teil.
+Der Park heißt: Park-Platz.
+Park-Platz ist eine Abkürzung.
+Zum Beispiel: Stadt-Straße.
+Stadt-Straße ist ein Substantiv.
+Es heißt: Straße.
+Oder: Straße ist ein Adjektiv",Dieses Haus
+wechsel,sampling,Das,69.45,11.0,3.9,4.59,22.8,22.75,1.5,6,"Dieses Haus in der Stadt Berlin ist ein großes Gebäude.
+Es hat eine große Kuppel und einen großen Turm mit vielen Fenstern, die über dem Boden stehen: Das heißt auf Deutsch ""Haus des Volkes"". In diesem Jahr haben viele Menschen das Dach vom Palast von König Ludwig II gesprengt oder es zerstört. Die Polizei sagt aber auch noch nicht genau warum sie den Bau gemacht hatten : Es war zu gefährlich für alle Besucher aus Deutschland, weil man sich dort sehr leicht verletzen kann wenn jemand etwas sieht was er sehen will",Dieses Haus
+wechsel,contrastive,Das,70.4,9.5,4.7,4.75,16.0,16.0,1.6,10,"Mein Vater ist gestorben.
+Er wurde 76 Jahre alt und seine Frau hieß Marietta Schaefer-Heitz war bei ihm zu Besuch. Sie hat gesagt: ""Wir sind sehr traurig, dass unser geliebter Mann tot sein wird."" Damit meint sie die Trauerfeier von ihrem Sohn Prinz Charles, der am 12 Juli im Alter 80 Jahren in London starb Das Grab des Prinzen heißt St.-Marienhof In dem Schloss waren viele Menschen mit ihren Familien zusammen gekommen um sich über den Tod ihres Vaters auszutauschen",Mein Vater
+wechsel,beam,Das,84.45,5.2,2.9,4.86,7.8,7.777777777777778,1.5,8,"Mein Vater ist gestorben.
+Er ist 74 Jahre alt geworden.
+Seine Frau heißt Ann-Kathrin.
+Sie ist die Ehe-Frau von ihrem Vater.
+Jetzt hat Ann Kathrin gesagt: Sie will nicht mehr mit ihrem Vater zusammen-leben.
+Ihr Vater hat ihr einen Brief geschrieben.
+In dem Brief stand: Ann Kathrin hat sich mit dem Corona-Virus angesteckt.
+Darum will Ann Kathrin jetzt nicht mehr zusammen-Leben.
+Aber Ann Kathrin sagt: Ihr Vater hat sie nicht",Mein Vater
+wechsel,sampling,Das,70.8,9.4,5.2,4.59,15.6,15.6,1.6,12,"Mein Vater ist gestorben.
+Er wurde 76 Jahre alt geworden, als er in einem Kranken-Haus starb: In der Stadt New York. Er war ein berühmter Musiker und Komponist aus den USA, aber auch eine bekannte Sängerin mit vielen bekannten Liedern wie zum Beispiel ""I'm afraid"" oder dem Lied 'You're my love'. Seine Frau heißt Mary Louise Beckham Smithson hat ihn beerdigt bekommen."" Sie sagt über ihren Mann : Es gibt viele Dinge im Leben die man nicht ändern kann",Mein Vater
+wechsel_orig,contrastive,Das,63.55,11.1,5.6,4.98,17.0,17.0,1.7,12,"Das ist ein sehr schönes Hotel. Wir haben uns dort wohl gefühlt und werden sicher wieder kommen!
+Wir waren im Juli für 2 Nächte in diesem schönen, kleinen Haus untergebracht (ca 50m vom Strand entfernt). Das Zimmer war sauber - es gab einen Fernseher mit Satellitenempfang sowie eine Stereoanlage zum hören von Musik aus dem Internet über das WLAN-Netz der Anlage auf unserem Balkon oder Terrasse... Die Lage des Hotels hat sich auch nicht geändert: direkt am Meer gelegener Sandstrand ca 10min Fußweg zu den Restaurants",Das
+wechsel_orig,beam,Das,86.8,5.3,1.4,4.25,11.3,11.285714285714286,1.4,4,"Das, was ich hier schreibe, ist nicht das, was die meisten Menschen denken. Es ist die Tatsache, dass die meisten Leute, die ich kenne, nicht wissen, was sie tun. Sie denken, dass sie etwas tun müssen, um etwas zu erreichen. Sie wissen nicht, wie sie etwas erreichen können. Sie sind nicht in der Lage, etwas zu tun.
+Ich bin nicht der Meinung, dass man etwas erreichen kann, wenn man es nicht tut. Ich denke, dass es wichtig ist, etwas",Das
+wechsel_orig,sampling,Das,53.9,13.8,9.2,5.42,20.8,20.75,1.8,20,"Das, was ich hier schreibe ist ein Versuch einer Erklärung der verschiedenen Arten von ""Pseudo-Nerven"" und deren Bedeutung für die menschliche Wahrnehmung.
+Ich habe mich in den letzten Jahren intensiv mit dem Thema beschäftigt (und bin dabei auf einige interessante Erkenntnisse gestoßen). Ich möchte nun versuchen diese zu erklären: Die Neuronen sind eine Art Gehirnzellen im menschlichen Körper - sie haben einen eigenen Sinn dafür wie wir uns fühlen oder denken können... Sie arbeiten an einem bestimmten Punkt des Gehirns herum um sich selbst",Das
+wechsel_orig,contrastive,Das,44.2,15.3,10.0,5.87,18.8,18.75,2.0,21,"Heute, am 22. September 2018 findet in der Zeit von 10:00 bis 12 Uhr die „Tag des offenen Denkmals“ statt – ein Tag für alle Denkmalschützer und Bürger aus dem Landkreis Emsland!
+Die Veranstaltung ist Teil einer bundesweiten Aktion zur Erhaltung historischer Denkmäler im Rahmen eines europaweiten Projektes zum Schutz gefährdeter Arten wie Fledermäuse oder Wildschweine sowie zu den Themen Klimaschutz & Nachhaltigkeit (www-infostand24). Die Teilnahme an dieser Initiative kostet nichts - außer Sie können sich kostenlos anmelden",Heute
+wechsel_orig,beam,Das,34.3,17.0,10.9,6.29,17.0,17.0,2.2,27,"Heute ist es wieder soweit, die Saison ist eröffnet und wir freuen uns auf ein spannendes und spannendes Jahr 2018.
+Wir freuen uns, dass Sie unsere Website besuchen und bedanken uns für Ihr Interesse. Im Folgenden informieren wir Sie über den Umgang mit Ihren personenbezogenen Daten bei Nutzung unserer Website. Personenbezogene Daten sind hierbei alle Daten, mit denen Sie persönlich identifiziert werden können.
+Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die",Heute
+wechsel_orig,sampling,Das,52.05,13.4,9.5,5.86,16.8,16.8,1.9,23,"Heute, am 22. September 2018 findet in der Zeit von 10:00 bis 12 Uhr die diesjährige Mitgliederversammlung des Fördervereins statt!
+Der Förderverein ist ein eingetragener Verein und wird durch den Vorstand geleitet (siehe auch Satzung). Der Vorsitzende oder sein Stellvertreter vertritt das Vereinsgebiet nach außen hin; er kann jederzeit vom Vorsitzenden eine außerordentliche Versammlung einberufen werden (§ 26 BGB) sowie einen weiteren stellvertretenden Vorsitzender bestellen bzw., wenn dies für erforderlich gehalten wurde, zur Vertretung im Ausschuss berufen (= § 25 Abs 1 Satz 2 Nr 3 Akt",Heute
+wechsel_orig,contrastive,Das,21.6,22.0,14.9,6.37,29.7,29.666666666666668,2.2,30,"Wir werden uns bemühen, die Inhalte unserer Website so aktuell wie möglich zu halten. Dennoch können wir keine Gewähr für Aktualität und Vollständigkeit übernehmen – insbesondere nicht bei Fehlern in der Darstellung von Inhalten oder technischen Störungen (zb.: Virenbefall).
+Die Nutzung dieser Webseite ist grundsätzlich ohne Angabe personenbezogener Daten zulässig; es sei denn diese sind ausdrücklich als solche gekennzeichnet worden bzw wurden durch den Nutzer freiwillig zur Verfügung gestellt: Die Erhebung erfolgt ausschließlich im Rahmen des technisch Möglichen auf freiwilliger Basis mit dem Ziel einer korrekten Kommunikation zwischen Nutzern untereinander",Wir
+wechsel_orig,beam,Das,19.75,19.4,13.3,7.17,14.0,14.0,2.5,32,"Wir, das Team von www.buergerstimmen.de, freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der Bürgerstimmen. Eine Nutzung der Internetseiten von Bürgerstimmen ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Bereitstellung personenbezogener Daten gesetzlich oder vertraglich vorgeschrieben und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine",Wir
+wechsel_orig,sampling,Das,49.85,14.2,8.5,5.95,19.0,19.0,1.9,16,"Wir, die Firma G.W., sind ein junges und dynamisches Unternehmen mit Sitz in der Schweiz (Schweiz). Wir bieten Ihnen eine breite Palette an Dienstleistungen rund um das Thema Garten- & Landschaftsbau sowie Baumpflege / Heckenschnitt/Baumfällung für Privat-, Gewerbekunden oder öffentliche Auftraggeber im Raum Zürich - Basel – Bern!
+Unser Team besteht aus erfahrenen Spezialisten auf dem Gebiet des Landschaftsgärtners: von den ersten Ideen bis zur Umsetzung Ihrer Wünsche stehen wir ihnen gerne beratend bei allen Fragen zu Ihrem Projekt kompetent",Wir
+wechsel_orig,contrastive,Das,59.3,11.7,8.1,5.73,15.4,15.4,1.8,17,"Die Türkei ist ein Land, das sich in den letzten Jahren zu einem der wichtigsten Handelspartner Europas entwickelt hat. Die türkische Wirtschaft wächst und die Zahl ausländischer Investoren nimmt stetig ab – auch dank des boomenden Tourismus-Booms im vergangenen Jahr.“
+„Der Erfolg von Istanbul zeigt einmal mehr: Das Leben hier wird immer interessanter für ausländische Unternehmen“, sagt Dr.-Ing.(FH) Peter Schaarschmidt vom Institut Arbeit & Technik (IAT). „Wir freuen uns sehr über diese positive Entwicklung bei unseren Kunden aus dem",Die Türkei
+wechsel_orig,beam,Das,85.85,4.6,2.4,4.96,6.4,6.384615384615385,1.5,8,"Die Türkei ist ein Land, in dem man sich gerne aufhält. Die Menschen sind freundlich, hilfsbereit und hilfsbereit. Die Türkei ist sehr gastfreundlich und gastfreundlich. Es gibt viele schöne Strände, die zum Baden und Sonnen einladen.
+Die Türkei hat eine sehr gute Infrastruktur. Die Hotels sind sehr gut ausgestattet. Die Preise sind sehr günstig.
+Das Hotel ist sehr schön. Die Zimmer sind sehr sauber. Das Personal ist sehr freundlich. Das Essen ist sehr gut. Die Lage ist sehr zentral. Das Hotel liegt sehr",Die Türkei
+wechsel_orig,sampling,Das,34.7,19.0,10.8,5.99,28.3,28.33333333333333,2.0,20,"Die Türkei ist ein Land, das sich in den letzten Jahren zu einem der wichtigsten Handelspartner für die Welt entwickelt hat. Die Wirtschaftskraft und -stärke des Landes wird durch eine Vielzahl von internationalen Handelsbeziehungen bestimmt:
+Der türkische Markt bietet neben dem Export auch zahlreiche Dienstleistungen an – darunter beispielsweise im Bereich Tourismus oder Baugewerbe sowie bei Immobilien-Investitionen wie etwa beim Kauf eines Hauses mit einer Hypothek auf einen türkischen Staatskredit (in Deutschland sind es derzeit rund 1 Million Euro). Darüber hinaus gibt er als wichtiger Finanz",Die Türkei
+wechsel_orig,contrastive,Das,49.35,14.4,9.8,5.47,19.5,19.5,1.9,19,"Dieses Haus befindet sich in einer ruhigen Gegend, umgeben von Bäumen und Feldern. Es ist ein idealer Ausgangspunkt für Ausflüge nach Florenz oder Venedig sowie zu den Stränden der Toskana mit ihren kristallklaren Wasserfällen (Tempi di San Pietro).
+Das Hotel liegt im Herzen des historischen Zentrums Pisa’s an einem schönen Uferweg zwischen dem Piazza Venezia-Platz am Fuße eines Berges aus Kastanienbäumen auf halbem Weg zum Meer gelegen - nur wenige Schritte vom Strand entfernt! Das Anwesen verfügt über einen",Dieses Haus
+wechsel_orig,beam,Das,49.2,13.4,9.2,6.05,13.8,13.833333333333334,2.0,20,"Dieses Haus befindet sich in einer ruhigen Gegend, in der Nähe von Geschäften, Restaurants, Bars, Cafés und dem Strand. Die Wohnung verfügt über ein Wohnzimmer mit einem Schlafsofa, ein Schlafzimmer mit einem Doppelbett und ein Badezimmer mit einer Dusche. Die Küche ist mit einem Geschirrspüler, einem Backofen, einem Kühlschrank, einer Mikrowelle, einer Kaffeemaschine, einem Toaster, einem Wasserkocher und einer Waschmaschine ausgestattet. Ein Flachbild-TV ist ebenfalls vorhanden. Das Bad ist mit einer Badewanne, einer Dusche und einem Haartrockner ausgestattet. Das Wohnzimmer verfügt über einen",Dieses Haus
+wechsel_orig,sampling,Das,55.4,13.2,9.9,5.56,19.3,19.25,1.8,20,"Dieses Haus ist ein idealer Ausgangspunkt für Ausflüge in die Umgebung. Die Wohnung liegt im Erdgeschoss und verfügt über einen großen Balkon mit Blick auf den Garten, eine voll ausgestattete Küche (mit Geschirrspüler), zwei Schlafzimmer sowie Bad/WC-Dusche / WC separat ausgestattet sind - ideal zum Entspannen!
+Die Ferienwohnung befindet sich am Ortsrand von Gaisberg bei der Ortschaft Stöckach an einem ruhigen Ort inmitten des Naturparks ""Gaißau"". Sie bietet Platz bis zu 4 Personen; sie hat auch Zugang zur Terrasse",Dieses Haus
+wechsel_orig,contrastive,Das,78.05,7.6,2.8,4.48,14.2,14.166666666666666,1.5,7,"Mein Vater ist gestorben, und ich bin nicht mehr da. Ich habe ihn nie geliebt.""
+""Ich weiß es noch immer sehr genau: Er war ein Mensch mit einer großen Liebe zu mir - aber er hat mich auch verlassen"", sagt die Mutter von zwei Kindern über ihren Mann Thomas (19). ""Er hatte eine große Familie in Deutschland gefunden – das Leben dort wurde ihm schwer gemacht.“ Die Eltern hätten sich getrennt; sie seien nun geschieden worden... Sie selbst sei damals aus dem Haus gegangen … „Sie haben gesagt",Mein Vater
+wechsel_orig,beam,Das,95.3,4.2,-0.6,4.01,14.5,14.5,1.2,0,"Mein Vater hat mir gesagt, dass ich das nicht machen soll, weil ich nicht weiß, was ich machen soll. Er hat mir auch erzählt, dass er das nie machen wird, weil er Angst hat, dass es ihm nicht gut geht. Ich weiß nicht, ob ich das machen soll oder nicht. Ich habe Angst, dass mein Vater das auch nicht machen wird.
+Hallo, ich bin 16 Jahre alt und habe seit ein paar Tagen starke Schmerzen in der Brust. Die Schmerzen sind sehr stark und ich habe Angst",Mein Vater
+wechsel_orig,sampling,Das,72.4,8.8,4.6,4.88,14.0,14.0,1.6,11,"Mein Vater ist ein guter Freund von mir. Er hat mich immer unterstützt, wenn ich Probleme hatte und er war auch sehr hilfsbereit.“
+„Ich habe meine Mutter nie gefragt ob sie mit meinem Bruder zusammenziehen möchte oder nicht“, sagt die junge Frau in einem Interview der „Bild“-Zeitung am Donnerstag (Mittwoch). Sie sei sich sicher gewesen: ""Er wird es tun."" Die Beziehung zwischen den beiden Männern werde für ihn eine große Herausforderung sein – aber das Leben als Paar könne man ja trotzdem genießen!Die Firma H",Mein Vater
+gerpt2,contrastive,Das,50.6,12.8,8.0,5.9,12.4,12.4,2.0,14,"Das demographische Wandel ist für viele Menschen ein Problem.
+Sie wollen mehr über das Älterwerden lernen und ihre Zukunft gestalten? Dann sind Sie bei uns richtig! Wir bieten Kurse in verschiedenen Bereichen an: Gesundheits-Management, Sozialer Dienst (zb Pflegefachkräfte) Gesundheitsbegleitung im Seniorenheim Strolche eV Die Kursgebühr beträgt 50 Euro pro Person. Anmeldungen nehmen wir bis zum 31 Januar 2019 entgegen unter Diese E-",Das
+gerpt2,beam,Das,70.65,8.3,5.9,5.28,9.9,9.875,1.7,13,"Das demographische Wandel ist in Deutschland angekommen.
+Das heißt: Die Menschen werden immer älter.
+Und die Menschen werden älter und haben weniger Geld.
+Die Menschen in Deutschland haben sich in den letzten Jahren verändert.
+Zum Beispiel: Die Zahl der Menschen, die in Rente gehen, ist gestiegen.
+Auch die Zahl der Rentnerinnen und Rentner hat sich erhöht.
+In Deutschland gibt es immer weniger Menschen mit einer Behinderung.
+Viele Menschen mit Behinderung arbeiten nicht mehr so gut wie früher.
+Sie haben",Das
+gerpt2,sampling,Das,46.55,15.5,8.7,5.3,22.3,22.25,1.9,18,"Das der Staat Israel die Palästinenser als Terroristen bezeichnet, ist ein anderes Wort für Terror.
+Die Hamas hat den Gazastreifen erobert und damit das Land Palästina zerstört. Die israelische Armee sagt: Der Angriff war von einer Gruppe palästinensischer Kämpfer aus dem Osten Israels geplant worden, um eine neue Regierung zu gründen oder einen neuen Präsidenten wählen wollen (die USA haben sich nicht an diese Pläne gehalten). Das heißt aber auch dass sie keine anderen Ziele hatten wie zum Beispiel Syrien in Nahost sondern nur ihre eigenen Gebiete im Nahen-Osten",Das
+gerpt2,contrastive,Das,64.9,11.7,6.7,4.9,21.5,21.5,1.6,14,"Heute Deutschland ist ein Land in Europa.
+Es heißt Groß-Britannien und hat ungefähr so viele Einwohner wie die Bundeshauptstadt Berlin. In dem Bundesland Bayern gibt es zum Beispiel das Oktoberfest, eine Fußballmannschaft aus München oder der FC Schalke 04 sind im Ausland bekannt für ihre Biersorten, aber auch andere Dinge kommen bei den Menschen gut an: So haben sie einen sehr hohen Alkoholgehalt von 0 bis 1 Prozent am Tag (Stand 2015). Das bedeutet man trinkt weniger als 3 Liter pro Woche auf 100 Gramm Grund",Heute
+gerpt2,beam,Das,84.45,5.2,2.5,5.0,7.8,7.777777777777778,1.5,5,"Heute ist Welt-Down-Syndrom-Tag.
+Der Tag soll darauf aufmerksam machen, dass viele Menschen mit Down-Syndrom nicht gut zurecht kommen.
+Das heißt: Viele Menschen sind nicht gut in ihrem Leben.
+Sie sind nicht in der Lage, sich selbst zu helfen.
+Deshalb gibt es den Tag heute.
+Er heißt: Tag der Menschen mit Behinderung.
+Menschen mit Behinderung haben Rechte.
+Zum Beispiel: Sie haben ein Recht auf Bildung.
+Oder sie haben ein Wahlrecht.
+Und",Heute
+gerpt2,sampling,Das,61.75,11.8,5.6,5.11,18.8,18.75,1.7,9,"Heute der Tag des Kaffees.
+Der Kaffee ist ein Getränk aus dem Land Italien. Er wird in vielen Ländern getrunken und schmeckt sehr gut, weil er so gesund wie Wasser oder Tee aussieht: Der Espresso kommt von einem Kaffeehaus-Kaffeeservice, den man im Internet findet (www.) Die Firma ""Coffea"" hat einen neuen Coffee Shop eröffnet In diesem Café gibt es eine große Auswahl an verschiedenen Sorten Espressomaschinen für jeden Geschmack Das Cafe heißt Caffè Latte Macchiato",Heute
+gerpt2,contrastive,Das,40.55,17.9,10.7,5.38,28.3,28.33333333333333,1.9,20,"Wir ist ein Land in Süd-Amerika.
+Es liegt am Schwarzen Meer und hat ungefähr 4 Millionen Einwohner, die meisten von ihnen sind Amerikaner. Das heißt: Sie leben im Ausland oder auf der ganzen Welt mit ihren Familien zusammen In den USA gibt es viele Bundesstaaten zum Beispiel New York, Mississippi (USA) Florida International Republic of America Vereinigte Staaten Von Amerika aus können sie überall hinfahren ohne Angst haben zu müssen eine Straftat begangen werden Die Kriminalitätsrate bei amerikanischen Reisen steigt seit vielen Jahren an Immer",Wir
+gerpt2,beam,Das,75.1,7.7,4.9,5.03,11.3,11.285714285714286,1.6,10,"Wir demographische Entwicklung ist ein Thema, das viele Menschen beschäftigt.
+Es geht um die Frage, wie sich die Menschen in Zukunft ernähren werden.
+In Deutschland gibt es immer mehr Menschen mit dem Corona-Virus.
+Viele Menschen haben Angst, dass sie in Zukunft nicht mehr so gut leben können.
+Die Menschen in Deutschland haben sich in den letzten Jahren sehr verändert.
+Sie haben sich zum Beispiel verändert: Sie haben mehr Geld verdient.
+Und sie haben mehr Zeit für ihre Familie.
+Aber",Wir
+gerpt2,sampling,Das,39.0,17.4,10.4,5.61,24.0,24.0,2.0,18,"Wir dem Land USA ist es gelungen, die Olympischen Spiele in der Stadt Tokio zu gewinnen.
+Die Sportlerinnen und Athleten haben sich für das Finale qualifiziert: Sie sind Olympiasieger geworden.
+Sie heißen IOC-Präsident Thomas Bach, Olympiadekadeurin Claudia Pechstein oder auch Weltklasseathletin Anna Karenina aus Österreich Die deutsche Mannschaft hat den Titel gewonnen mit einem Sieg gegen Japan im Halbfinalfinale von Rio de Janeiro am Sonntag um 15 Uhr Ortszeit (15 Minuten vor",Wir
+gerpt2,contrastive,Das,50.0,15.3,9.3,5.39,24.7,24.666666666666668,1.8,17,"Die Türkei ist ein Land in Europa.
+Es liegt im Osten von dem Kontinent Asien und hat ungefähr so viele Inseln wie Deutschland zusammen: Istanbul, Khartum-Gebirge Die Hauptinsel der Türkischen Ägäis heißt Antalya Bei einer Reise nach Griechenland kann man viel über die Menschen lernen Das griechische Wort für Urlaub lautet Pyrgos (Insel). Griechische Wörter sind zum Beispiel πα = Gebirge Der Name kommt aus Lateinisch oder griechischer Sprache Sprichwörter gibt es nur wenige auf",Die Türkei
+gerpt2,beam,Das,80.1,5.7,3.4,4.77,6.3,6.25,1.6,8,"Die Türkei ist ein Land in Europa.
+Es liegt in dem Land Türkei.
+Die Türkei gehört zur Europäischen Union.
+In der Türkei leben ungefähr 1,5 Millionen Menschen.
+Sie leben in vielen verschiedenen Ländern.
+Zum Beispiel in Deutschland.
+Und in der Türkei gibt es viele Moscheen.
+Viele Moscheen sind in der Stadt Istanbul.
+Dort gibt es auch eine Moschee.
+Eine Moschee ist ein Gebäude.
+Das heißt: Es gibt dort eine Moschee für Muslime.
+Oder eine Moschee",Die Türkei
+gerpt2,sampling,Das,58.9,11.8,8.0,5.65,15.8,15.8,1.8,17,"Die Türkei ist ein Land in Europa.
+Es liegt im Osten von dem Kontinent Asien. Die Hauptstadt heißt Istanbul, die Haupt-Stadt der türkischen Republik Turkmenistan und das größte Stadtviertel des Landes sind seine beiden Städte: Ankara mit seinen vielen Geschäften, Bars oder Restaurants sowie den wichtigsten Sehenswürdigkeiten wie zum Beispiel einer Moschee auf einem Berg überragt vom Meer bis zur Altstadt am Fluss Taksim (Türkei). Das türkische Wort für Türkische Gemeinde bedeutet ""Kirche"". In Deutschland gibt es eine Türkischstämm",Die Türkei
+gerpt2,contrastive,Das,59.55,12.7,6.5,5.14,21.0,21.0,1.7,12,"Dieses Haus ist ein sehr altes Gebäude.
+Es wurde im Jahr 1884 gebaut und gehört zu den ältesten Häusern in Deutschland. Das heißt: Es war früher eine Schule für arme Menschen, die keine Arbeit hatten oder nicht genug Geld haben um ihr Leben selbst bestimmen können (zum Beispiel wegen Krankheit). Heute leben dort ungefähr 10 000 Flüchtlinge aus dem Land Syrien, Irak & Eritrea unter einem Dach zusammen mit ihren Familien auf engstem Raum ohne fließendes Wasser-Abflusssystem über das es kein Trinkwasser gibt Die Flüchtlings",Dieses Haus
+gerpt2,beam,Das,86.15,4.5,4.5,4.66,6.1,6.083333333333333,1.5,14,"Dieses Haus ist in der Nähe vom Strand.
+Es liegt in einer ruhigen Gegend.
+Das Haus hat 2 Schlafzimmer.
+1 Schlafzimmer ist mit einem Doppelbett.
+2 Schlafzimmer sind mit 2 Einzelbetten.
+Im 1. Schlafzimmer ist ein Einzelbett.
+Auf dem 1. Bett ist ein Etagen-Bett.
+In dem 2. Schlafzimmer hat ein Einzel-Bett Platz für 2 Personen.
+Die 2. Person kann auf dem Schlafsofa schlafen.
+Der Preis für das Schlafsofa beträgt 10 Euro pro Nacht.
+",Dieses Haus
+gerpt2,sampling,Das,71.45,10.2,5.0,4.7,20.8,20.75,1.5,9,"Dieses Haus ist ein sehr altes Gebäude.
+Es wurde im Jahr 1869 gebaut und war in einem schlechten Zustand, weil es zu viele Schäden hatte: Es gab keine Fenster mehr mit Glas-Fenstern oder eine Dachschräge für die Wände. Die Fassade von dem alten Fachwerkhaus hat Risse bekommen, aber das alte Holz konnte nicht repariert werden Das neue Feuerzeug aus der Zeit vor 1900 kann man heute noch sehen Der Besitzer des Hauses heißt Johann Wolfgang Goethe (1749 bis 1797). Er wollte den Bau",Dieses Haus
+gerpt2,contrastive,Das,65.6,11.4,5.3,4.7,20.8,20.75,1.6,9,"Mein Vater ist gestorben.
+Er hatte Krebs und wurde in ein künstliches Koma versetzt, wo er bis zum letzten Tag gelebt hat: im Kranken-Haus von seinem Onkel Hans Brüning. Die Ärzte haben gesagt : Der Tod war sehr schlimm für ihn, aber es gab keine Anzeichen dafür das etwas Schlimmes passiert wäre oder sein Leben verändert hätte (zb eine Operation an der Hand). Also musste ich mich operieren lassen um zu überleben Ich habe mir einen Herzkatheter machen lasse mit dem man sehen kann",Mein Vater
+gerpt2,beam,Das,95.05,3.2,1.0,4.36,8.9,8.88888888888889,1.3,4,"Mein Vater ist gestorben.
+Er war ein berühmter Schauspieler.
+Und er hat viele bekannte Filme gemacht.
+Zum Beispiel diese: Die Schöne und das Biest Das Lied von Eis und Feuer Das Lied vom Tod Der Film heißt ""Der kleine Prinz"".
+Er ist in dem Land Frankreich gedreht worden.
+In dem Film geht es um einen Prinzen.
+Der Prinz heißt Charles.
+Das heißt: Er ist der Sohn von Prinz Charles und seiner Frau.
+Die beiden sind seit vielen Jahren ein Paar.
+",Mein Vater
+gerpt2,sampling,Das,72.7,8.6,4.5,4.85,13.7,13.666666666666666,1.6,10,"Mein Vater ist gestorben.
+Er war ein sehr bekannter Schauspieler und Sänger aus dem Land USA. Er hat viele Filme gemacht, zum Beispiel diese: ""Der Mann mit den goldenen Haaren"" oder auch die Serie Die Simpsons, in der er mitspielt (mittlerweile gibt es eine eigene Fernseh-Serie). In dieser Zeit haben sich seine Fans über ihn lustig geredet - sie waren traurig darüber! Jetzt wurde bekannt gegeben dass sein Sohn tot im Krankenhaus liegt! Der Tod von seinem Bruder heißt John Cena : Seine Mutter",Mein Vater
+gerpt2_orig,contrastive,Das,51.5,12.5,8.9,6.09,11.5,11.5,2.0,18,"DasDer Artikel ist in der Kategorie ""Künstliche Intelligenz"" abgelegt.
+Im Rahmen des Forschungsprojektes „Intelligent Data Analytics“ werden Daten aus dem Forschungs- und Entwicklungsprogramm (FONA) zur Verfügung gestellt, die Aufschluss über den Einsatz von Künstlicher Intelligenz geben sollen: Wie wird KI eingesetzt? Welche Auswirkungen hat das auf Unternehmen oder deren Mitarbeiter/innen im Hinblick darauf – was sind ihre Ziele bzw., wenn ja welche)? Die Ergebnisse wurden am 15./16.-17. November 2017 an",Das
+gerpt2_orig,beam,Das,73.4,8.4,5.3,5.0,13.0,13.0,1.6,12,"DasDie besten Hotels mit Restaurants in der Nähe von St. Peter-Ording, Deutschland
+Hotels mit 3 Sternen in St.Peter Ording
+Hotels in der Umgebung von Sankt Peter Ording (Landkreis)
+“Das Hotel ist sehr gut gelegen, die Zimmer sind sauber und das Personal ist sehr freundlich und hilfsbereit. Das Frühstück ist sehr reichhaltig und sehr lecker. Die Lage des Hotels ist super, man ist in wenigen Minuten in der Innenstadt. Die Zimmer sind sehr schön eingerichtet und sehr sauber. Das",Das
+gerpt2_orig,sampling,Das,54.2,13.6,5.8,5.13,20.5,20.5,1.8,9,"DasDie besten Hotels in der Nähe von Bahnhof St. Gallen
+Der erste Schritt ist getan, die ersten Schritte sind gemacht und nun geht es an das Einrichten des neuen Servers: Die Konfiguration wird vorgenommen (siehe unten). Nun muss nur noch ein Server eingerichtet werden – mit dem Namen „Server“. Der Name sollte sich wie folgt verhalten… Weiterlesen → Hotelangebote für den Sommer 2018 ›› weiterlesen … [Nächster Beitrag]
+In diesem Artikel möchte ich euch zeigen was ihr alles aus einem kleinen Garten machen könnt um euren",Das
+gerpt2_orig,contrastive,Das,80.95,6.5,2.5,4.25,11.3,11.333333333333334,1.5,7,"HeuteDer Preis für die Lieferung beträgt 3,95 €.
+Ich habe eine Frage zu dem Buch ""Wie man ein Bild in den Warenkorb legt"". Kann mir jemand sagen wie ich das machen kann? Danke im Voraus. :D (Piccolo) - LovelyBooks-Forum: Das Leben ist kein Ponyhof! _ Page 2 von 5 by Jannis Heitz & Band 1+2 [Rezension] Hey ihr Lieben :) Ich bin auf der Suche nach einem guten eBook zum Thema Liebe",Heute
+gerpt2_orig,beam,Das,25.15,21.7,12.7,6.33,32.0,32.0,2.1,16,"HeuteDie besten Hotels in der Nähe, Pensionen, Appartements, Hostels und Herbergen, Die günstigsten Unterkünfte, Luxushotels, Karte der Hotels, Google-Satellitenbildkarte, Touristische Karte der Region, Radwege, Ausflugsplaner, Camping, Wandern, Kultur, Sport, Wetter, Wetter Heute
+Das Hotel liegt in der Altstadt, nur wenige Schritte von den wichtigsten Sehenswürdigkeiten der Stadt entfernt. Das Hotel verfügt über ein Restaurant, eine Bar, ein Café, eine Snackbar und einen Parkplatz.
+Das",Heute
+gerpt2_orig,sampling,Das,46.65,13.3,6.1,6.1,10.5,10.5,2.1,7,"HeuteDie besten Hotels in der Nähe von Bahnhof St. Gallen
+Das ist ein sehr schönes Bild, das ich mir vor einigen Tagen gemacht habe und es gefällt dir gut! Ich finde die Farben sind einfach toll :) LG Tina-Maria (http://www1stylephotographybloggls) - http:/timeline_device/?p=5364&srcid=""0"">Tommy<br /strongmap <bodyarticles}",Heute
+gerpt2_orig,contrastive,Das,15.3,24.4,14.5,6.82,36.0,36.0,2.2,21,"WirDer Deutsche Bundestag hat am 1. Januar 2018 die Wahl zum Abgeordnetenhaus von Berlin und zur Bundesversammlung der Freien Demokraten (FdD) mit überwältigender Mehrheit beschlossen, das Gesetz über den Schutz vor terroristischen Anschlägen in Deutschland zu ratifizieren
+Die SPD-Bundestagsfraktion begrüßt diese Entscheidung des Deutschen Bundestages für verfassungswidrig erklärt: „Es ist ein Skandal wie er im Parlament passiert“, sagte Frank Bsirpke dem RedaktionsNetzwerk deutscher Medienberater Ronny Schroeder bei einer Presseveranstaltung anlässlich seines Amts",Wir
+gerpt2_orig,beam,Das,47.8,13.9,8.0,6.11,15.2,15.2,2.0,16,"WirWir sind ein Unternehmen, das sich auf die Bedürfnisse der Kunden einstellt.
+Wir bieten Ihnen ein breites Spektrum an Dienstleistungen rund um das Thema Immobilien an.
+Sie haben Fragen zu unseren Leistungen oder möchten einen Termin mit uns vereinbaren? Wir freuen uns auf Ihre Kontaktaufnahme.
+Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die M.A.S. GmbH",Wir
+gerpt2_orig,sampling,Das,70.25,8.5,2.0,4.82,10.3,10.333333333333334,1.7,5,"WirDie besten Hotels in der Nähe von St. Peter und Paul
+Das ist ein sehr schönes Bild, das ich mir auch gerne anschauen würde! Ich habe es schon oft gesehen: Die Kinder sind so groß wie die Erwachsenen - aber sie haben keine Beine oder Füße? Das finde ich total schade... Aber vielleicht kann man ja mal drüber reden?! :) LG Lotta ♥♥️🌸😍 #momlife#fashionbloggerinlove @little_sheepythe",Wir
+gerpt2_orig,contrastive,Das,51.5,12.5,5.6,6.17,11.5,11.5,2.0,7,"Die Türkei ist ein Ort, an dem man sich entspannen kann.
+Wir freuen uns über Ihr Interesse und wünschen Ihnen viel Spaß beim Durchstöbern unserer Seiten! Sollten Sie Fragen haben oder einen Termin vereinbaren wollen rufen sie einfach unter 0228-9393457 (Mo.-Fr.) +49(0)202/4015276 bzw info@triobetraeumexpressoesnicaraguaspañolación de l'Ecolog",Die Türkei
+gerpt2_orig,beam,Das,69.55,8.8,5.2,5.39,11.0,11.0,1.7,15,"Die Türkei ist die zweitgrößte Stadt der Türkei und liegt im Südosten der Türkei. Sie ist die Hauptstadt des Landes und die größte Stadt des Landes.
+Die Hauptstadt der Türkei ist Istanbul. Sie liegt im Nordwesten der Türkei, in der Nähe der türkischen Grenze. Die Stadt ist ein beliebtes Reiseziel für Touristen, da sie viele Sehenswürdigkeiten bietet.
+In der Stadt gibt es viele Sehenswürdigkeiten, die man besichtigen kann. Die wichtigsten Sehenswürdigkeiten sind:
+Die Altstadt von Istanbul ist eine der wichtigsten Sehenswürdigkeiten der Stadt. Sie befindet sich in der",Die Türkei
+gerpt2_orig,sampling,Das,70.25,8.5,6.0,5.17,10.3,10.285714285714286,1.7,14,"Die Türkei ist ein Ort, an dem man sich wohl fühlt.
+Das Hotel liegt in der Nähe des Strandes und nur wenige Gehminuten vom Zentrum entfernt (ca 10 Minuten zu Fuß). Die Zimmer sind mit Bad oder Dusche/WC ausgestattet; die meisten verfügen über einen Balkon bzw. eine Terrasse sowie Sat-TV im Wohnzimmerbereich! Das Frühstück wird täglich frisch zubereitet: Eierspeisen aus eigener Produktion wie z.B.: Rührei, Speck-, Wurst-/ Schinkensalat usw., Müsli & Cornflakes uv",Die Türkei
+gerpt2_orig,contrastive,Das,49.85,14.2,8.8,5.43,19.0,19.0,1.9,18,"Dieses Haus mit 4 Sternen in Bad Triest
+Das Hotel befindet sich im Herzen von Büsum, nur wenige Gehminuten vom Bahnhof St. Peter und der Fußgängerzone entfernt (Haltestelle ""Südenstraße""). Die U-Bahnstation ist ca 1 km zu Fuß erreichbar - auch für Kinder ein Erlebnis! Im Sommer lädt die Terrasse zum Verweilen bei einem kühlen Getränk oder erfrischender Erfrischung nach dem langen Tag auf unserer Sonnenterrasse am Ufer des Neckartals unter freiem Himmel an warmen Sommertagen wie Sonnenaufgangsmö",Dieses Haus
+gerpt2_orig,beam,Das,44.15,16.5,12.4,5.66,24.7,24.666666666666668,1.9,22,"Dieses Haus mit 2 Schlafzimmern, 2 Bäder, 1 Wohnzimmer, 1 Küche, 1 Schlafzimmer, 1 Badezimmer, 1 Gäste-WC, 1 Terrasse, 1 Parkplatz
+Das Haus befindet sich in einer ruhigen Wohngegend, in der Nähe von Geschäften, Restaurants und Bars.
+Die Wohnung befindet sich im 1. Stock und verfügt über ein Schlafzimmer mit Doppelbett, ein Wohnzimmer mit Schlafcouch, ein Badezimmer mit Dusche und WC, eine voll ausgestattete Küche mit Spülmaschine, Mikrowelle, Kaffeemaschine, Toaster, Wasserkocher, Eierkocher, Geschirr, Besteck",Dieses Haus
+gerpt2_orig,sampling,Das,11.5,21.5,13.0,7.6,16.4,16.4,2.6,29,"Dieses Haus mit 2 Schlafzimmern, 1 Badezimmer
+Die Verarbeitung personenbezogener Daten erfolgt stets im Einklang der Datenschutz-Grundverordnung und in Übereinstimmung damit für die Firma H. & M.-Breuer GmbH geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang UND Zweck von personenbezogenen daten informieren. Ferner werden betroffene Personen mittels dieser Erklärung darüber informiert wie wir personenbezogene Nutzerdaten verarbeiten.
+Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich diejenige natürliche oder juristische Person wenden,""die den Verantwortlichen über diese Zwecke hinwegweist"".
+Sofern",Dieses Haus
+gerpt2_orig,contrastive,Das,56.7,12.7,7.5,5.51,18.0,18.0,1.8,14,"Mein Vater und seine Frau. Das ist ein gutes Zeichen für die Beziehung zwischen Mann, Mutter oder Kind - so zumindest meine Erfahrung in der Praxis von Dr.-Ing., Prof. Hans-Peter Scholl (Foto: Getty Images)
+Der Begriff „Ehe“ bezeichnet eine Lebensgemeinschaft unter Ehepaaren mit dem Ziel einer einvernehmlichen Scheidung bzw Ehescheidung nach § 1631 BGB im Sinne des Bürgerlichen Gesetzbuches („BGB“). Der Ehegatte kann sich scheiden lassen – ohne dass er das Eheversprechen abgegeben hat; es",Mein Vater
+gerpt2_orig,beam,Das,47.0,14.3,8.9,5.91,16.0,16.0,2.0,16,"Mein Vater ist ein sehr guter Freund.
+Ich bin ein guter Freund und ich liebe dich.
+Du bist der beste Freund von mir.
+Die besten Hotels in der Nähe, Pensionen, Appartements, Hostels und Herbergen, Die günstigsten Unterkünfte, Luxushotels, Camping, Karte der Hotels, Google-Satellitenbildkarte, Touristische Karte der Region, Radwege, Ausflugsplaner, Amadé und Verkehr, Geldautomaten, Parking, Tankstellen
+Wir freuen uns über Ihr Interesse an unserem Unternehmen",Mein Vater
+gerpt2_orig,sampling,Das,53.85,12.7,7.0,5.64,15.0,15.0,1.9,14,"Mein Vater, der sich selbst in den Himmel erhebt.
+Die besten Hotels mit Charme im Zentrum von St-Jean de la Tour 2017 – Booking.com
+Hotels & Unterkünfte nahe Stadtzentrum Saint Jean d'Orleans (St.-Pierre) - La Tours Paris International Airports and Hotel Centre Eiffel auf TripAdvisor: Hier finden Sie die günstigsten Preise für das Altstadtviertel Sainte Anne und alle verfügbaren Hotelangebote.
+Lage des historischen Zentrums Sankt Pierre ist sehr zentral gelegen; es gibt viele Restaurants sowie Geschäfte zu Fuß",Mein Vater
+oscar,contrastive,Das,59.1,11.7,8.7,5.54,15.6,15.6,1.8,19,"Das-selben Menschen sind in der Stadt Hannover.
+Hannover ist die Hauptstadt von Niedersachsen und liegt im Bundesgebiet Nord-Deutschland.kea hat gesagt: Wir wollen mit dem Bau anfangen, wenn es fertig wird. Palästinenische Soldaten kämpfen seit vielen Jahren gegen Terroristen aus anderen Ländern auf Israel, zum Beispiel den Islamischen Staat ""Judenhass"". IKEA sagt auch dazu bei Facebook oder Twitter : Ich bin einverstanden damit zu arbeiten für ein Land wie Deutschland Es gibt eine Umfrage über das Thema Terror am 13.",Das
+oscar,beam,Das,72.95,7.4,4.7,5.12,7.6,7.555555555555555,1.7,9,"Das dem Corona-Virus sehr ähnlich ist, nennt man auch Corona Covid-19-19.
+Das Virus ist sehr ansteckend.
+Es gibt verschiedene Arten von dem Virus.
+Zum Beispiel das Corona BAG. Das Virus ist in vielen Ländern auf der Welt verbreitet.
+Die meisten Menschen in Deutschland sind gegen das Virus geimpft.
+Aber viele Menschen in anderen Ländern haben das Virus nicht.
+Deshalb haben viele Menschen Angst.
+Und viele Menschen haben Angst",Das
+oscar,sampling,Das,61.25,12.0,6.5,5.13,19.3,19.25,1.7,12,"Das der Name von einem Land ist, kann man auch sagen: die Flagge.
+Die meisten Länder haben eine eigene Fahne und einen eigenen Namen für ihre Währung. ----------------------------------------------------------- Die National-Währung in Deutschland heißt Euro, also ""Deutschland"". Das Wort Volk hat 2 Wörter : 1) Volkswirtschaft (das Geld aus dem Staat bezahlt wird), das sich auf den Bürger verteilt; dazu gehören zum Beispiel Bauern oder Handwerkerinnen Menschen mit einer bestimmten Ausbildung sind ein Teil vom Gemeinwesen Ein anderes Wort dafür",Das
+oscar,contrastive,Das,57.4,14.6,7.0,4.86,29.0,29.0,1.6,11,"Heute. Ein Mann hat in der U-Bahn einen Unfall gemacht und ist auf dem Bahnsteig gestorben.
+Der Zug war am Dienstag, 17:00 Uhr gesperrt worden weil ein Auto zusammengestoßen sein sollte, aber das nicht passiert wurde die Polizei gerufen um zu klären was mit den Autos passieren soll es sich bei diesem Unglück noch ergeben oder gibt man nach einer Lösung suchen? Werftarbeiter haben gesagt ich würde mich freuen wenn jemand helfen kann da er sehr viel Erfahrung im Umgang damit hatte mein Kollege schon viele Unfälle",Heute
+oscar,beam,Das,73.75,7.1,4.5,4.87,6.8,6.818181818181818,1.7,12,"Heute dem 14. Oktober ist der internationale Tag gegen Rassismus.
+Der Tag ist ein Aktions-Tag.
+Er wird in vielen Ländern gefeiert.
+Zum Beispiel in den USA. In den USA gibt es den Tag ""Tag gegen Rassismus"".
+In diesem Jahr ist der Tag auch in Deutschland.
+In vielen Städten in Deutschland gibt es Aktionen gegen Rassismus und gegen Rassismus-Feindlichkeit.
+Die Aktionen sind in vielen Städten.
+Sie sind zum Beispiel in Berlin.
+Berlin ist ein Stadt-Teil von",Heute
+oscar,sampling,Das,45.55,13.7,7.6,6.26,11.6,11.6,2.1,14,"Heute der 13. Oktober ist in Wien ein großes Fest für die Menschen mit Behinderungen gefeiert worden.
+Das Motto von dem Festival heißt ""HSV"". Das bedeutet: Alle sind gleichberechtigt und können mitmachen an diesem Tag zusammen feiern, ohne dass sie gegeneinander spielen müssen oder sich gegenseitig verletzen wollen! Merken Sie jetzt Ihre eigene Facebook-Seite auf dieser Seite https://www.facebook/shv?path=0&languagesrl_idthhkdmjwg1y5",Heute
+oscar,contrastive,Das,66.1,11.2,6.7,5.09,20.3,20.25,1.6,12,"Wir-Gefühl ist ein englisches Wort.
+Es wird in der Sprache gesprochen: Wir sind die Gefühle von Menschen, zum Beispiel im Sport oder beim Einkaufen.retung des Gleichgewichts Der Körper braucht Energie um zu funktionieren und den Stress abzufangen Die meisten Sportler machen bei jedem Wettkampftag eine Pause nach dem Wettkampf (1 bis 2 Stunden). gültig bedeutet das man etwas tun muss wenn es weh tut Das Gegenteil vom Gesetz steht für unfähig an sich selbst Schuld daran kann sein dass jemand nicht",Wir
+oscar,beam,Das,79.4,6.0,4.1,4.61,7.0,7.0,1.6,10,"Wir dem Verein FC Bayern München gehören zu den größten Fußball-Vereinen der Welt.
+Der Verein ist in der 2. Fußball-Bundesliga.
+Das ist die 1. Liga in der 1. Bundesliga.
+Die 2. Mannschaft spielt in der 3. Liga.
+Und die 3. Mannschaft ist aus dem Land Spanien.
+In der 3-jährigen Fußball-Karriere von Bayern München hat der Verein viele Erfolge gefeiert.
+Zum Beispiel hat er den DFB-Pokal gewonnen.
+Er hat den DFB",Wir
+oscar,sampling,Das,73.1,8.5,5.0,5.19,13.3,13.333333333333334,1.6,8,"Wir der Stadt Karlsruhe haben einen neuen Bürgermeister.
+Er heißt Frank Mentrup. ------------------------------------------- Peter Tschentscher ist seit dem Jahr 2012 der Bürger-Meister von den Städten Kiel und Flensburg, die auch in diesem Sommer wieder zur Hauptversammlung gewählt werden können, weil er sich für eine bessere Zukunft einsetzt. Die Wahl war am 26. Mai im Rathaus mit einer großen Feier.----------------Die meisten Menschen waren bei dieser Versammlung nicht dabei: Sie wollten lieber über das Thema Politik sprechen als darüber zu reden was sie",Wir
+oscar,contrastive,Das,63.55,11.1,6.6,5.16,17.0,17.0,1.7,13,"Die Türkei hat einen Anschlag in der Haupt-Stadt Ankara verübt.
+Das ist ein Stadt im Norden von dem Land Syrien. Olympische Spiele sind das größte Sport für Menschen mit Behinderung, die bei Olympia mitmachen können: Zum Beispiel Sportler aus den Ländern Norwegen, Schweden und Deutschland haben Medaillen gewonnen oder Fußball gespielt (mit dabei auch Frauen). Merken Sie was passiert war? Werft eine Bombe auf einem Stadion fest um dann explodieren zu lassen heißt es wenn etwas kaputt geht Es gab 2 Bombenanschläge vom 11. November",Die Türkei
+oscar,beam,Das,77.3,6.8,3.2,4.79,9.1,9.125,1.6,10,"Die Türkei ist ein Nachbar-Land von Deutschland.
+Die Türkei gehört zur Europäischen Union.
+Sie ist Mitglied in der Europäischen Union und in der NATO. Die Türkei gehört zu den Ländern: Syrien, Irak, Syrien und Iran.
+Der Präsident von der Türkei heißt Recep Tayyip Erdogan.
+Er hat gesagt: Die Türkei darf nicht in die NATO einmarschieren.
+Das heißt: Er will nicht, dass die Türkei in die Nato einmarschiert.
+In der Nato sind viele Länder.
+",Die Türkei
+oscar,sampling,Das,58.7,11.9,5.7,5.18,16.0,16.0,1.8,11,"Die Türkei ist ein Land in Asien.
+Es liegt im Osten von Europa und gehört zur Europäischen Union. ----------------------------------------------------------- Die Regierung hat gesagt: Wir wollen die Menschen dort besser schützen als auf der ganzen Welt."" Das heißt, dass wir uns darum kümmern sollen für alle Länder-Länder aus dem Nahen Osten, Afrika oder Südosteas mit ihren eigenen Ländern wie zum Beispiel Syrien zu kämpfen haben um den Frieden zwischen diesen verschiedenen Gruppen herzustellen! Diese Gruppe nennt man auch ""Islamischer Staat"". Illustratorin In",Die Türkei
+oscar,contrastive,Das,64.35,10.8,7.2,5.2,16.2,16.2,1.7,15,"Dieses Haus ist in der Haupt-Stadt New York.
+Das heißt: Es gibt einen Teil von dem Gebäude, auf den man zugreifen kann und die anderen Teile sind für Menschen mit Behinderung gedacht.retung bedeutet zum Beispiel ""ein Ort des Respekts"". Palästinensern aus verschiedenen Ländern kommen nach Deutschland, um dort zu arbeiten oder ein Studium anzustoßen."" Die Firma Hewlett Packard hat gesagt über das Projekt informiert worden war sie bereit sich an einem Preis als bester Arbeitgeber zu bewerben"", sagt er weiter. Bei",Dieses Haus
+oscar,beam,Das,86.45,4.4,1.4,4.71,5.8,5.833333333333333,1.5,4,"Dieses Haus ist in der Nähe von der Stadt Berlin.
+Das Haus ist sehr groß.
+Es ist ein Wohn-Haus.
+In dem Haus wohnen sehr viele Menschen.
+Und es ist sehr voll.
+Die Menschen in dem Haus sind sehr arm.
+Sie haben kein Geld.
+Darum brauchen sie Hilfe.
+Zum Beispiel für Essen.
+Oder für Kleidung.
+Diese Menschen bekommen Hilfe von der Bundes-Regierung.
+Bundes-Kanzlerin Angela Merkel hat gesagt: Die Menschen brauchen Hilfe",Dieses Haus
+oscar,sampling,Das,73.6,8.3,4.4,4.86,12.8,12.833333333333334,1.6,8,"Dieses Haus ist ein kleines Dorf in der Nähe von Hamburg.
+Das kleine Nachbar-Haus heißt ""Hamburger Schloss"". ----------------------------------------------------------- Das Gebäude hat 2 Stockwerke und eine Treppe aus Holz. Die Treppen sind sehr niedrig, weil es dort keinen Aufzug gibt: Im Erdgeschoss wohnen viele Menschen mit Behinderung. Illustrator Stefan Albers macht die Fotos im Internet für das Projekt Harmony House, wo er lebt. Er sagt über sein Leben als Maler :""Ich habe mich immer wieder gefragt wie ich meine",Dieses Haus
+oscar,contrastive,Das,60.05,12.5,8.1,5.3,20.5,20.5,1.7,16,"Mein Vater ist gestorben.
+Er wurde 80 Jahre alt geworden sein: Peter Tschaikowski aus Mecklenburg-Vorpommern hat einen Bericht geschrieben, in dem er seine Tochter vermisst und nicht gefunden wird.retung des Bundesamts für Familie, Senioren und Frauen im Jahr 2017 In den letzten Jahren gab es immer wieder Berichte über Kinderschübe von Familienmitgliedern oder Freunden, die ihren Sohn verloren haben weil sie Angst hatten zu sterben an der Krankheit Parkinson. Das war ein Schock auf mich als ich vor 10 Monaten mit einer",Mein Vater
+oscar,beam,Das,84.55,5.1,2.3,4.51,7.7,7.7,1.5,8,"Mein Vater ist gestorben.
+Er wurde 80 Jahre alt.
+Sein Vater war ein Schrift-Steller.
+Das heißt: Er hat Bücher geschrieben.
+Und er hat Bücher gezeichnet.
+Seine Bücher sind sehr bekannt.
+Zum Beispiel diese: Die Geschichte von der Liebe.
+Die Geschichte von dem Tod.
+Oder die Geschichte von einer Frau.
+Der Vater von dem Vater von der Mutter von der Tochter von der Schwester von der Oma von dem Opa von dem Sohn von dem Enkel-Vater von dem",Mein Vater
+oscar,sampling,Das,70.6,9.5,6.1,4.78,15.8,15.8,1.6,12,"Mein Vater ist gestorben.
+Er war ein berühmter Schauspieler und Musiker aus dem Land USA. Er hat in vielen Filmen mitgespielt: Die Toten Hosen Das Mädchen von Orlando Der kleine Prinz der Karibik Harry Potter Michael Douglas George Clooney In den letzten Jahren haben viele Menschen über ihn geschrieben, weil er sehr berühmt geworden sind für seine Rolle als Mr. & Mrs. Tingley im Film ""Die Tribute"" oder auch durch sein Lied-Lied zum 1. Mal auf Platz 2 des deutschen",Mein Vater
+oscar_orig,contrastive,Das,51.45,13.6,9.2,5.64,17.4,17.4,1.9,21,"Das. Das war ein guter Anfang für die Saison, der in einer guten Form gelaufen ist und mit einem tollen Team, dem Trainer Jürgen Klopp sowie den Trainern von Fortuna zu tun hat"", so Marquez nach seiner Verletzungspause.Wir verwenden Cookies zur Optimierung des Designs unserer Webseite. Indem Sie Ihren Besuch auf dieser Website fortsetzen stimmen Sie deren Verwendung zu. Weitere Informationen über unsere Cookies und wie wir sie verwenden finden Sie hier.Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich",Das
+oscar_orig,beam,Das,75.9,7.4,4.5,4.73,10.5,10.5,1.6,14,"Das, was wir hier sehen, ist die Realität. Die Realität, in der wir leben. Und die Realität, die wir nicht sehen können, weil sie uns nicht bewusst sind. Wir können sie nicht sehen, weil wir sie nicht wahrnehmen können. Wir müssen sie nicht erkennen, weil es uns nicht möglich ist, sie zu erkennen. Aber wir können sie erkennen, wenn wir sie durch unsere Wahrnehmung wahrnehmen. Und wir können ihnen die Wahrheit erklären, indem wir sie in unsere Wahrnehmung integrieren. Und wenn wir die Wahrheit",Das
+oscar_orig,sampling,Das,40.2,14.7,10.8,6.42,11.1,11.142857142857142,2.2,22,"Das. Die meisten der von uns verwendeten Cookies sind so genannte “Session-Cookies”. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.Die Cookie-Einstellungen auf dieser Website sind auf ""Cookies zulassen"" eingestellt, um das beste Surferlebnis zu ermöglichen. Wenn du diese Website ohne Änderung der Cookie-Einstellungen verwendest oder auf ""Akzeptieren"" klickst, erklärst du sich damit einverstanden.Der für die Verarbeitung",Das
+oscar_orig,contrastive,Das,57.9,12.2,7.6,5.37,16.8,16.8,1.8,18,"Heute. Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.Wir sind seit vielen Jahren mit Herrn Bächli in Kontakt und wissen wie er arbeitet. Er hat einen kompetenten Eindruck von dem was wir tun wollen, wenn es darum geht unsere Arbeit zu verbessern oder um neue Ideen zu entwickeln.Das Hotel liegt im Zentrum von Sidi Kaouki auf ca 10 Autominuten vom Meer entfernt und bietet seinen Urlaubern alle Dienstleistungen eines",Heute
+oscar_orig,beam,Das,67.7,8.4,5.7,5.57,7.0,7.0,1.8,13,"Heute, den 07.11.2018, 19:00 Uhr in der Gaststätte „Zur Linde“ in Rödental. Die Veranstaltung ist kostenlos. Eine Anmeldung ist nicht erforderlich. Der Eintritt ist frei. Bitte informieren Sie sich vor Ort über die Programm- und Ticketanzahl sowie die Kontaktdaten der Vorverkaufsstellen. Die Karten kosten 5,00 Euro pro Person. Der Kartenvorverkauf ist am Montag, den 09.11., 19:30 Uhr, im Foyer des Gemeindezentrums Rödentals, Rödent",Heute
+oscar_orig,sampling,Das,18.95,19.7,14.5,7.64,14.8,14.8,2.5,30,"Heute.de/datenschutzerklaerung.html.Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung",Heute
+oscar_orig,contrastive,Das,32.45,16.6,13.2,6.63,13.0,13.0,2.3,28,"Wir. Mit der Nutzung unserer Dienste/Website erklären Sie sich damit einverstanden, dass wir Cookies verwenden. Weitere Informationen über den Einsatz von Cookies finden Sie in unseren Datenschutzbestimmungen / Impressum.Der Artikel ist lieferfähig und wird sofort kommissioniert. Die Auslieferung erfolgt innerhalb von 1 Tag (Montag bis Freitag, Feiertage am Sitz unseres Unternehmens ausgenommen) nach Vertragsschluss bei Zahlung per Lastschrift, Paypal, Kreditkarte (Visa, Master, American Express) und Rechnung.In Ihrem Webbrowser ist JavaScript deaktiviert. Um alle Funktionen dieser Website nutzen zu können",Wir
+oscar_orig,beam,Das,30.05,17.6,15.0,6.53,15.4,15.4,2.3,32,"Wir, das Team von WeDesignTrips, haben das Ziel, euch mit unseren Online-Design-Paketen ein besseres Nutzererlebnis zu bieten. Durch Nutzung unserer Website erklären Sie sich mit unserer Verwendung von Cookies einverstanden. Weitere InformationenWir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren und die Zugriffe auf unseren Webseiten zu analysieren. Außerdem geben wir Informationen zu Deiner Nutzung unserer Webseiten an unsere Partner für Emails, Werbung und Analysen weiter. Details ansehenDie Cookie-Einstellungen auf dieser Website sind auf ""Cookies zulassen"" eingestellt,",Wir
+oscar_orig,sampling,Das,42.85,14.8,8.3,6.19,14.3,14.333333333333334,2.1,21,"Wir. Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h., die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.",Wir
+oscar_orig,contrastive,Das,46.15,15.7,9.4,5.79,22.7,22.666666666666668,1.9,15,"Die Türkei hat den Kampf gegen Extremisten verloren. Das ist ein Grund, warum die Regierung in Ankara keinen Friedensvertrag mit der kurdischen Arbeiterpartei PKK schließen will. Der Staatschef Recep Tayyip Erdogan sagte am Dienstag im Gespräch mit dem Deutschlandfunk-Reporter Eddie Brock (19 Uhr) er wolle sich nach einer ""Rebellion des Terrors"" für einen Waffenstillstand einsetzen und nicht mit Gewalttätigkeiten in Konflikt umgingen - was bedeutet: Es geht um Geld!Das",Die Türkei
+oscar_orig,beam,Das,47.85,15.0,10.3,5.99,21.0,21.0,1.9,24,"Die Türkei und die EU haben sich auf eine Zusammenarbeit verständigt. Die EU-Mitgliedstaaten haben sich darauf verständigt, dass die Türkei bei der Umsetzung der EU-Vorgaben für den Schutz der Menschenrechte und Grundfreiheiten in der Türkei unterstützt wird. Die Türkei ist verpflichtet, die Maßnahmen der EU zu unterstützen, um die Rechte der Menschen zu schützen und die Menschenrechte zu gewährleisten. Die türkische Regierung hat sich verpflichtet, alle Maßnahmen zur Unterstützung der Menschenrechte zu ergreifen, die den Schutz von Menschenrechten und Grundfreiheiten im Land betreffen. Die",Die Türkei
+oscar_orig,sampling,Das,64.3,9.7,6.2,5.28,10.4,10.375,1.8,17,"Die Türkei ist ein Land der Gegensätze. Die Gesetze und die Gesellschaft sind von unterschiedlicher Seite. Der Norden gilt als Party- und Reisedestination, das Osten eher als Urlaubsland. Im Süden dagegen herrscht Anarchie. Die Dokumentation zeigt, wie Sportler in den Krieg gegen die Regierung kommen. Sie kämpfen für ihre...Das Buch „Der Weg zum Frieden“ hat mich schon vor Jahren fasziniert. Es gibt viele interessante Aspekte zu diesem Thema – aber auch einige sehr wichtige Fragen: Wie kann man sich auf dem richtigen Wege verhalten",Die Türkei
+oscar_orig,contrastive,Das,36.6,16.1,11.8,6.84,14.7,14.666666666666666,2.2,28,"Dieses Haus hat einen sehr hohen Standard. Wir sind in der Lage, Sie zufrieden zu stellen und das Beste aus Ihren Wünschen herauszuholen.""Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend",Dieses Haus
+oscar_orig,beam,Das,57.95,11.1,8.1,5.84,10.9,10.857142857142858,1.9,16,"Dieses Haus ist ideal für Familien mit Kindern. Es verfügt über eine voll ausgestattete Küche mit einem Geschirrspüler, einem Backofen, einem Kühlschrank, einer Mikrowelle, einer Kaffeemaschine, einem Toaster und einem Wasserkocher. Außerdem gibt es ein Badezimmer mit einer Dusche und einer Badewanne. Ein Haartrockner und ein CD-Player sind ebenfalls vorhanden. Die Lounge lädt zum Verweilen ein. Das Haus ist mit einem Flachbild-Sat-TV, einem Radio und einem DVD-Player ausgestattet. Die... Weitere Details anzeigen »Die meisten der von",Dieses Haus
+oscar_orig,sampling,Das,74.3,8.0,3.8,4.73,12.1,12.142857142857142,1.6,11,"Dieses Haus ist ein schönes Beispiel für die moderne Architektur. Es hat alles, was man braucht: eine große Terrasse mit Blick auf den Garten und einen großen Pool (mit einer Tiefe von ca. 5 m). Die Küche ist sehr gut ausgestattet und bietet viel Platz zum Kochen oder Essen im Freien. Das Badezimmer ist sehr geräumig und hat Dusche/WC. Der Balkon ist sehr schön und es gibt auch viele Sonnenliegen in der Nähe des Hauses! Wir haben uns sehr wohl gefühlt!Die Cookie-Einstellungen auf dieser Website",Dieses Haus
+oscar_orig,contrastive,Das,38.6,15.3,3.0,6.63,12.7,12.666666666666666,2.2,4,"Mein Vater starb. Die beiden	Verantwortlich für den Inhalt: Markus Weidner, Im Ziegelacker 20, D-63599 Biebergemünd, E-Mail post@markusweidner[ät]gmail[punkt='companywedding',index.php?page_id=3#post194“][image=null}}Das ist ein guter Anfang und wir werden sehen ob es weiter geht mit dem Spiel in der 2D Welt oder",Mein Vater
+oscar_orig,beam,Das,31.5,15.9,11.0,6.62,8.1,8.11111111111111,2.4,24,"Mein Vater war ein Nazi-Offizier. Er hat den Tod von vielen Menschen zu verantworten. Der Filmemacher erkennt dies spät. Er und seine Mutter versuchen die eigene Familiengeschichte aufzuarbeiten. Sie treffen Hinterbliebene von Holocaust-Opfern. Eine jüdische Historikerin etwa, die in der Berliner Ausstellung ""Topografie des Terrors"" arbeitet. Die nachfolgenden Generationen von...Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen",Mein Vater
+oscar_orig,sampling,Das,73.1,8.5,4.5,4.86,13.3,13.333333333333334,1.6,11,"Mein Vater, der sich in den letzten Jahren mit dem Thema „Renten und Rente“ beschäftigt hat, ist ein großer Fan von Renten. Er hat sich für die Rentenreform eingesetzt und ist überzeugt davon, dass es eine gute Lösung gibt: „Die Menschen müssen nicht mehr auf ihre Altersvorsorge verzichten.“ Das sei auch gut so. „Wir brauchen keine neue Politik“, so der Vater. „Wir haben nur einen Weg.“ Die SPD-Fraktion im Bundestag will das Rentenpaket jetzt zügig beschließen – und zwar am Donnerstag.",Mein Vater
+mGPT,contrastive,Das,72.2,8.8,6.0,5.13,14.2,14.2,1.6,12,"Das Land USA hat einen Vertrag mit dem Nachbar-Land Mexiko geschlossen.
+Der Grund: Die Menschen in den US-Staaten haben kein Geld mehr für die Öl und Gaspreise bezahlt, obwohl sie das nicht wollten.Deshalb gab es Streit zwischen der Regierung von Texas und anderen Regierungen im Bundesland.
+Viele sagen jetzt zum ersten Mal seit langer Zeit nichts zu essen oder trinken.
+Dafür brauchen wir ein besseres Gesetz ausgerufen worden vor allem bei",Das
+mGPT,beam,Das,71.95,7.8,5.5,5.48,8.6,8.625,1.7,11,"Das Bundes-Verfassungs-Gericht hat ein wichtiges Urteil gesprochen.
+Es geht um die Frage, ob die Verfassung eingehalten werden soll.
+Die Richterinnen und Richter haben entschieden: Die Verfassung ist nicht in Ordnung.
+Sie ist falsch.
+Deshalb muss die Verfassung geändert werden.
+In der Verfassung steht zum Beispiel, dass alle Menschen die gleichen Rechte haben.
+Und es steht auch darin, dass jeder Mensch frei seine Meinung sagen darf.
+Das Gericht hat gesagt:",Das
+mGPT,sampling,Das,82.05,6.1,2.1,4.66,10.2,10.166666666666666,1.5,4,"Das Wort ""Biene"" ist ein Substantiv.
+Es hat diese 2 Wörter: Bienen (damit sind die Tiere gemeint) Es gibt verschiedene Arten von Bienen, zum Beispiel das Huhn oder der Fuchsschwanz.
+Zum Beispiel eine Art vom Tiger-Tiger.
+Oder es gibt einen Vogel mit dem Namen des Babys.
+Ein anderes Wort für Bienen heißt auch ""Männchen"".
+Manche sagen zu einem Tier nur ""Käfer",Das
+mGPT,contrastive,Das,72.25,7.7,6.3,5.31,8.3,8.285714285714286,1.7,10,"Heute hat Udo Jürgens Geburtstag.
+Er wird 70 Jahre alt.
+Udo Jürgens ist Sänger und Komiker aus Hamburg.
+Aber er macht auch fernseh-sendungen im Fernsehen: Er moderiert zum Beispiel die Sendung ""Wetten dass...?!"".
+Und in der Fernseh-Serie spielt ein bekannter Musiker mit Down-Syndrom.
+Das heißt, Menschen haben Probleme beim Sprechen oder Schreiben von Texten.
+Viele Leute glauben an",Heute
+mGPT,beam,Das,71.85,7.9,4.0,5.04,8.7,8.666666666666666,1.7,9,"Heute ist Tag des Käsekuchens.
+Es ist ein amerikanischer Welt-Tag.
+Dort heißt er National Cheese Day.
+Man weiß nicht: Seit wann gibt es den Tag des Käse-Kuchens?
+Und man weiß auch nicht: Wer hat ihn erfunden?
+Außerdem sind heute noch diese Welt-Tage: Tag des Schokoladen-Bäckens in den USA Tag der Schokolade-Bäcker-Käse-Tag Tag",Heute
+mGPT,sampling,Das,76.8,7.0,3.3,4.6,9.6,9.625,1.6,10,"Heute hat Prinz Philip Geburtstag.
+Er wird 70 Jahre alt.
+Prinz Philip ist der britische Kron-Sohn Queen Elisabeth und sein Mann Prinz Charles haben heute ein Baby bekommen: Das Mädchen wurde am 5. April geboren.
+Das heißt, das Kind war erst 3 Monate jünger als die Geburt von William und Kate.
+Es kam aus Großbritannien.
+Die Mutter des Babys hieß Elizabeth Diana.
+Sie hatte einen Wunsch für sie nach England zu kommen.
+Aber es gab keine gute",Heute
+mGPT,contrastive,Das,69.75,8.7,5.2,5.22,10.8,10.833333333333334,1.7,11,"Wir haben einen Plan für die Zukunft.
+Das heißt: Wir wollen, dass es keine Kriege in der Welt gibt und nicht Atom-Bomben explodieren können.
+Dafür brauchen wir ein bestimmtes Ziel von den Vereinten Nationen. > UNO ist eine Abkürzung aus United Nations, kurz WMO. Die Mitgliedsländer versammeln sich zum Beispiel mit Politikern über das Thema Umweltverschmutzung auf der ganzen Welt zu sprechen.
+In diesem Jahr soll",Wir
+mGPT,beam,Das,73.15,7.4,5.8,5.21,7.4,7.444444444444445,1.7,12,"Wir ist eine Abkürzung.
+Sie steht für: United Nations.
+Das ist ein Zusammenschluss von 193 Mitglieds-Ländern.
+Die Abkürzung steht für Vereinte Nationen.
+Der Chef von den Vereinten Nationen heißt Antonio Guterres.
+Er hat gesagt: Wir wollen den Frieden auf der ganzen Welt sichern.
+Wir wollen die Menschen vor dem Krieg schützen.
+Und wir wollen den Menschen helfen, die in Not sind.
+Zum Beispiel: Menschen mit Behinderung Menschen",Wir
+mGPT,sampling,Das,69.25,8.9,4.9,5.12,11.3,11.333333333333334,1.7,8,"Wir haben eine neue Internet-Seite.
+Auf der Seite gibt es viele Informationen über das Corona-Virus in Leichter Sprache zu lesen und anschauen, zum Beispiel: Wie kann man sich gegen die Krankheit impfen lassen?
+Wie können wir Menschen vor dem Virus schützen?
+Was ist wichtig für einen Impfstoff oder ein Medikament?
+Es sind alle wichtigen Fragen zur Anleitung von einem Impfstoff.
+Die Antworten auf diese Frage stehen im Inf",Wir
+mGPT,contrastive,Das,49.8,13.2,10.0,5.59,13.2,13.2,2.0,19,"Die Türkei ist ein Land in Asien.
+Viele Menschen sprechen türkisch und russisches Wort für verschiedene Religionen: Christentum Hinduismus Buddhismus Jüdische Gemeinde In der Türkei leben ungefähr 5 Millionen Muslime, die eine Religion angehören.
+Der Präsident von dem Land heißt Recep Tayyip Erdogan.
+Er hat gesagt: Die Kultur gehört zu unserer Geschichte.
+Das wollen wir ändern zum Beispiel mit den Muslimen feiern oder im Fernsehen laufen.
+",Die Türkei
+mGPT,beam,Das,76.5,7.2,4.6,4.91,9.9,9.857142857142858,1.6,7,"Die Türkei ist ein Land in Asien.
+Die Haupt-Stadt von der Türkei heißt Ankara.
+In der Türkei leben ungefähr 1,5 Millionen Menschen.
+Viele von ihnen sprechen türkisch und türkisch.
+Das sind die Sprachen: Türkisch, Russisch, Kurdisch, Kurdische Sprache, Russisch und Kurdisch In der Türkei bezahlen die Menschen mit dem Euro.
+Der Euro ist das Geld, mit dem man bezahlen kann, wenn man in der Türkei arbeitet.
+Manche sagen zu",Die Türkei
+mGPT,sampling,Das,59.3,11.7,6.5,5.23,15.4,15.4,1.8,16,"Die Türkei ist ein Land in Asien.
+Es liegt im Osten von Europa, am Mittel-Meer und grenzt an Syrien.
+In der Türkei leben ungefähr 1 Million Menschen.
+Im Jahr 2018 gab es dort eine Volksabstimmung über die Unabhängigkeitserklärung vom türkischen Präsidenten Erdogan.
+Das heißt: Die türkische Regierung hat entschieden, dass sie nicht mehr zur Europäischen Union gehören will oder zu dem Land USA, weil das so viele Türken sind wie seit Jahren keine deutsche Staatsbürgerschaft haben wollen",Die Türkei
+mGPT,contrastive,Das,69.35,8.8,4.2,5.21,11.2,11.166666666666666,1.7,7,"Dieses Haus in der Nähe von Kiel ist für Menschen mit Behinderung.
+Das heißt: Sie können dort wohnen und arbeiten ohne Geld dafür zu verdienen.Oder sie brauchen Unterstützung bei ihrer Arbeit oder zum Arzt-Praxis, damit es ihnen besser geht als sonst.
+Dafür gibt Schleswig eine Wohnungslosen-Stelle im Stadtpark Ohlsdorf.
+In dieser Stelz leben über 3 Tausend Menschen aus aller Welt.
+Die Bewohner haben ein Recht auf Wohnung.",Dieses Haus
+mGPT,beam,Das,85.85,4.6,2.8,4.79,6.4,6.363636363636363,1.5,8,"Dieses Haus ist in der Nähe von Hannover.
+In dem Haus wohnen viele Menschen.
+Diese Menschen wohnen in dem Haus.
+Und diese Menschen arbeiten dort.
+Das Haus ist sehr teuer.
+Aber das Haus hat sehr viel Geld gekostet.
+Deshalb hat das Haus jetzt viel Geld verloren.
+Jetzt muss das Haus repariert werden.
+Die Reparatur dauert mehrere Jahre.
+Dann können die Menschen wieder in das Haus zurück.
+Sie wollen mehr Nachrichten",Dieses Haus
+mGPT,sampling,Das,70.25,8.5,4.8,5.21,10.3,10.285714285714286,1.7,8,"Dieses Haus ist in der Nähe von Hannover.
+In dem Haus wohnen viele Menschen mit Behinderung.
+Und diese Menschen können dort arbeiten: In einem Wohn-Haus für alte und kranke Menschen, im Pflegeheim oder bei einer Werkstatt für behinderte Menschen Die Bewohner vom Haus haben einen Antrag gestellt.
+Diesen Brief hat die Stadt Hamburg geschickt.
+Die Bürger konnten den Antrag unterschreiben.
+Sie wollten wissen: Wann kann ich das Haus besuchen?
+Oder wie lange",Dieses Haus
+mGPT,contrastive,Das,77.3,6.8,4.4,4.97,9.1,9.142857142857142,1.6,10,"Mein Vater ist gestorben.
+Er hatte Krebs im Gehirn-Speichel.
+Das bedeutet: Der Körper hat Probleme beim Sprechen und Schreiben lesen oder schreiben lernen.
+Seine Frau sagt, dass er das nicht wollte.
+Ihr Sohn heißt Oskar Bögner, der die Ärzte in einem Krankenwagen begleitet haben.
+Dann kam ein Arzt zu ihm ins Krankenhaus um ihn aufzutragen.
+Aber es war eine Operation mit dem Nervengift nöt",Mein Vater
+mGPT,beam,Das,68.0,8.3,7.3,5.27,6.7,6.666666666666667,1.8,15,"Mein Vater ist gestorben.
+Er wurde 87 Jahre alt.
+So sah er aus: Der Vater von Michael Schumacher war ein berühmter Renn-Fahrer.
+Michael Schumacher war Renn-Fan.
+Das heißt: Er hat sehr viele Autos gefahren.
+Und er hat viele Preise gewonnen.
+Zum Beispiel den Formel-1-Welt-Meister-Titel.
+Jetzt ist Michael Schumacher beerdigt worden.
+Seine Familie und enge Freunde waren bei ihm.
+Die Beerdigung",Mein Vater
+mGPT,sampling,Das,83.35,5.6,3.5,4.87,8.9,8.875,1.5,8,"Mein Vater ist gestorben.
+Er war ein berühmter deutscher Schriftsteller und Schauspieler.
+Sein Name war Hans-Joachim Liefers.
+Hans Joachim Liefers kam am 20. Januar 1900 auf die Welt, in der Stadt Frankfurt am Main.
+In Berlin.
+Seine Eltern waren Juden oder Sinti und Roma.
+Der Verlag von seinem Leben hat gesagt: Der Tod von Hans Joachim Liefers soll sich nicht wiederholen.
+Die Familie sagt aber auch: Wir haben nichts zu sagen.",Mein Vater
+mGPT_orig,contrastive,Das,50.6,12.8,10.1,6.02,12.4,12.4,2.0,18,"Das Buch ist in zwei Teile gegliedert. Der erste Teil befasst sich mit der Geschichte des Klosters St.-Marien-Ersdorf, dessen Ursprünge bis ins 12./13 Jahrhundert zurückreichen und im Laufe seiner Entwicklung zum heutigen Kloster Eppstein gewachsen war (Abbildung 1). Die zweite Abbildung zeigt die bauliche Anlage von Ersdorfer Domkapitel aus dem Jahr 1307/08 sowie den gotischen Chorraum unter Einbeziehungen mittelalterlicher Fresken an Decke",Das
+mGPT_orig,beam,Das,67.6,10.6,5.3,4.95,18.8,18.75,1.6,9,"Das ist ein gutes Beispiel dafür, wie man mit dem Gedanken an die Zukunft umgehen kann, wenn man nicht weiß, wie es weitergehen soll.
+Ich bin mir sicher, dass es viele Menschen gibt, die sich mit der Frage beschäftigen, wie sie ihre Zukunft gestalten können.
+Es ist wichtig, dass man sich mit dem Thema auseinandersetzt, bevor man eine Entscheidung trifft.
+Man sollte sich nicht nur mit der Zukunft auseinandersetzen, sondern auch mit der Vergangenheit.
+Wenn",Das
+mGPT_orig,sampling,Das,43.85,14.4,9.5,5.98,13.3,13.25,2.1,14,"Das ist ein sehr schönes Buch, das ich gerne lesen würde.
+Ich habe es mir auch gekauft und bin begeistert! Es hat mich wirklich gefesselt von Anfang bis Ende 🙂
+Kostenloser VersandeBay-Garantie​Weitere passende ArtikelAlle Ergebnisse ansehenSolch einen Partner zu finden?Wir suchen für Sie in unserem Partnernetzwerk nach Menschen mit ähnlichen Interessen wie Ihnen.“Einfach alles",Das
+mGPT_orig,contrastive,Das,64.0,9.8,7.2,5.73,10.7,10.666666666666666,1.8,13,"Heute ist der 1. Mai, das Jahresthema des Bundeskanzlers in diesem Zusammenhang: „Wir brauchen eine bessere Welt“.
+Die Kanzlerin hat den Deutschen ein gutes Gefühl vermittelt und sich dafür eingesetzt zu haben – nicht nur im Hinblick auf die bevorstehende Bundestagswahl am 24./25., sondern auch als Botschafterin für Frieden mit allen Konfliktparteien weltweit (vgl.: Pressemitteilung vom 28/04). Das zeigt einmal mehr ihre Fähigkeit zur konstrukt",Heute
+mGPT_orig,beam,Das,81.95,6.1,1.7,4.52,10.3,10.333333333333334,1.5,4,"Heute ist es wieder soweit, die neue Saison startet. Wir freuen uns auf euch und wünschen euch viel Spaß und Erfolg.
+Wir haben unsere neue Homepage für euch auf den neuesten Stand gebracht. Wir hoffen, dass ihr sie genauso findet, wie wir es uns gewünscht haben.
+Unser Team freut sich auf euer Feedback!
+Wir sind stolz darauf, dass wir euch mit unser",Heute
+mGPT_orig,sampling,Das,58.7,11.9,6.4,5.16,16.0,16.0,1.8,11,"Heute ist der Tag, an dem die Welt von den Menschen in ihren Häusern und auf ihrem Land getrennt wird.
+Wir sind alle hier um zu helfen! Wir haben unsere Hände gebunden für eine bessere Zukunft unserer Kinder – wir wollen sie nicht verlieren oder zerstören.“
+Kinder- & Jugendbücher - Bücher zum Thema ""Kinderbuch"" bei Buch findr kaufen	Finde jetzt dein neues Lieblingsprodukt aus dieser Kategorie: Kinderküche",Heute
+mGPT_orig,contrastive,Das,27.45,18.6,15.8,7.06,18.0,18.0,2.3,15,"Wireless LAN 802.11b/g Wirel�tiges netzwerk (WLAN) Bluetooth Dongle mit Mikrofon und Lautsprecher W-Lan Repeater
+USB 2,0 Schnittstelle 1x USB 3 Buchse Audioeingang Stereoausgang AUX In Eingabestift Fernbedienung Tastatur Tastenkombination Multimedia Interface DLNA Webcam Display TFT Farbdisplayd",Wir
+mGPT_orig,beam,Das,59.7,11.5,6.3,4.93,15.0,15.0,1.8,12,"Wir haben uns in den vergangenen Wochen intensiv mit dem Thema befasst. Wir haben uns auch mit der Frage befasst, wie wir unsere Arbeit in den kommenden Jahren gestalten können.
+Wir wollen unseren Beitrag dazu leisten, dass unsere Kinder und Jugendlichen in unserer Region eine gute Zukunft haben.
+Unser Ziel ist es, dass wir in den nächsten fünf Jahren eine gute Schule haben. Wir wollen, dass die Schülerinnen und Schüler in unseren Schulen eine gute",Wir
+mGPT_orig,sampling,Das,50.7,15.0,8.8,5.39,24.0,24.0,1.8,14,"Wir haben unsere eigenen Erfahrungen gemacht und können Ihnen sagen, dass wir mit dem Kauf von einem neuen Produkt sehr zufrieden sind.
+Die Qualität der Produkte ist für die meisten Kunden wichtig aber nicht nur das sondern auch ein guter Preis spielt bei den Produkten eine wichtige Rolle da es so gut wie immer entscheidet ob Sie sich wirklich dafür entscheiden oder eher auf einen Fehlkauf warte müssen!
+Kostenloser VersandeBay-Garantie​Weitere passende Artikel",Wir
+mGPT_orig,contrastive,Das,39.15,16.2,11.9,6.31,18.0,18.0,2.1,17,"Die Türkei ist in der Lage, die Menschenrechte zu verteidigen. Das hat sie sich zum Ziel gesetzt“, sagte Erdogan am Donnerstag bei einem Besuch des syrischen Machthabers Baschar al-Assad im nordirakisch besiedelten Gazastreifen und fügte hinzu: „Wir werden alles tun um den Terroranschlägen von Anschlägern entgegenzuwirken.“
+Bücher Erweiterte Suche Stöbern Bestseller Neuheiten Hörbücher Fremdsprachige",Die Türkei
+mGPT_orig,beam,Das,72.9,8.6,4.4,4.73,13.5,13.5,1.6,10,"Die Türkei ist ein Land, in dem die Menschen in der Türkei leben und arbeiten. Die Türkei ist eine Demokratie, in der die Menschen frei sind, ihre Meinung zu äußern und zu wählen.
+Die Türkei hat eine lange Geschichte, die von den Türken selbst geprägt wurde. Die Türken haben eine lange Tradition in der Geschichte der Türkei, die bis in die Antike zurückreicht. Die Geschichte der Türken beginnt mit der Gründung der türkischen Republik im Jahre 1923.
+Heute ist die Türkei",Die Türkei
+mGPT_orig,sampling,Das,43.55,16.7,10.4,5.68,25.3,25.33333333333333,1.9,18,"Die Türkei ist ein Land, das sich in der Vergangenheit immer wieder von den anderen Ländern abgewandt hat. Die türkische Regierung versucht seit Jahren die Beziehungen zu Russland und China aufrechtzuerhalten – aber es gibt auch eine Reihe anderer Probleme mit dem Westen:
+Der Konflikt zwischen Israelis einerseits sowie Palästinensern andererseits wird durch einen neuen Staat namens „Republik Jemen“ ausgelöst; dieser wurde im Jahr 2014 gegründet (siehe unten). Der neue Präsident Ali Abdullah Saleh will seine Macht",Die Türkei
+mGPT_orig,contrastive,Das,-0.66,22.9,10.9,9.39,11.0,11.0,2.9,11,"Dieses Haus ist wirklich schön. Wir haben unseren Aufenthalt sehr genossen und würden jederzeit wiederkommen! Vielen Dank für die tolle Unterkunft, wir kommen gerne wieder :)Natascha2016-08-21T00:05ZArt der AktivitätPrivatzimmerObjekttypHausUnterkunftsartFerienhausApartmentGeschikt voor2SchlafzimmersGoslar (Harz), Niedersachsen 39625, DeutschlandRuhige",Dieses Haus
+mGPT_orig,beam,Das,62.9,10.3,6.7,5.47,11.8,11.8,1.8,12,"Dieses Haus liegt in einer ruhigen Wohngegend, in der Nähe von Geschäften und Restaurants. Es ist ideal für Paare, Alleinreisende und Geschäftsreisende.
+Das Haus verfügt über eine voll ausgestattete Küche, ein Wohnzimmer, ein Schlafzimmer und ein Badezimmer mit Dusche und Badewanne. Es gibt auch eine Waschmaschine und einen Trockner.
+Es gibt auch einen Parkplatz vor dem Haus.
+Die Wohnung",Dieses Haus
+mGPT_orig,sampling,Das,73.75,9.3,4.1,4.46,18.5,18.5,1.5,7,"Dieses Haus ist ein wunderschön gelegener Ort, mit einem schönen Blick auf die Berge und das Meer. Es hat alles was man braucht für einen angenehmen Aufenthalt in der Natur! Wir haben uns sehr wohl gefühlt bei den Gastgebern - wir kommen gerne wieder :)
+Wir hatten eine tolle Zeit im Casa de la Luna!! Das Zimmer war groß genug um alleine zu sein (mit zwei kleinen Kindern), es gab sogar noch mehr Platz als erwartet:",Dieses Haus
+mGPT_orig,contrastive,Das,39.1,15.1,8.3,6.28,12.2,12.2,2.2,15,"Mein Vater war in der Zeit des Nationalsozialismus Mitglied im Nationalsozialistischen Deutschen Ärztebund (NSDAP). Nach dem Krieg wurde er von den Alliierten interniert und verbrachte die Jahre 1946 bis 1948 unter Polizeischutz. Im Jahr 1949 begann seine berufliche Laufbahn als Assistenzarzt an einer psychiatrischen Klinik, später arbeitete Dr.-Ingenieur für Hochfrequenztechnik bei Siemens &amp; Halske AG am Standort Berlin-Charlottenburg.[1]
+Am 1./2., 3/4.:",Mein Vater
+mGPT_orig,beam,Das,93.55,3.8,0.2,4.25,10.4,10.428571428571429,1.3,4,"Mein Vater hat mir gesagt, dass ich nicht mehr mit ihm zusammen sein kann, weil er mich nicht mehr liebt. Ich habe ihm gesagt: ""Du bist nicht mein Vater, du bist meine Mutter."" Ich habe ihn verlassen, weil ich ihn nicht liebte. Ich weiß nicht, was ich tun soll.
+Ich weiß, dass meine Eltern mich verlassen haben, weil sie mich nicht lieben. Sie haben mich verlassen. Ich bin nicht mehr mein Kind. Ich",Mein Vater
+mGPT_orig,sampling,Das,66.6,11.0,5.6,4.84,19.8,19.75,1.6,10,"Mein Vater war ein großer Fan von den Beatles und ich habe mich immer gefragt, wie es mit ihm weitergeht. Ich bin mir sicher: Er wird nie vergessen.“
+Die Bandmitglieder sind sich über die Zukunft der Gruppe sehr ähnlich – auch wenn sie nicht mehr zusammen spielen werden (siehe unten). Die Mitglieder haben ihre eigenen Vorstellungen vom Leben in einer Rockband; das ist für viele Fans eine große Herausforderung gewesen - aber so richtig Spaß macht ihnen dies gar nichts!
+K",Mein Vater

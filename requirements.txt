@@ -1,0 +1,10 @@
+pandas
+textstat
+transformers==4.24.0
+tqdm
+accelerate
+jupyter
+datasets
+evaluate
+sentencepiece
+scikit-learn

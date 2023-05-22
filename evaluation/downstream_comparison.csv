@@ -1,0 +1,5 @@
+model_name,num_training_steps,mse
+wechsel,10,0.8803964257240295
+wechsel_orig,10,2.4247524738311768
+gerpt2,10,5.642903804779053
+gerpt2_orig,10,6.299773216247559
