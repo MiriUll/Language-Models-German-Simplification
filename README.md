@@ -13,4 +13,11 @@ For the application of the language models as ATS decoders, please refer to the 
 
 ## Citation
 If you use our models or the code in one of our repos, please use the following citation:  
-*tba*
+@misc{anschütz2023language,  
+&emsp;        title={Language Models for German Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training},   
+&emsp;       author={Miriam Anschütz and Joshua Oehms and Thomas Wimmer and Bartłomiej Jezierski and Georg Groh},  
+&emsp;       year={2023},  
+&emsp;       eprint={2305.12908},  
+&emsp;       archivePrefix={arXiv},  
+&emsp;       primaryClass={cs.CL}  
+}
