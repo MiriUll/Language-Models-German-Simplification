@@ -13,14 +13,16 @@ For the application of the language models as ATS decoders, please refer to the 
 
 ## Citation
 If you use our models or the code in one of our repos, please use the following citation:  
+```bibtex
 @inproceedings{anschutz-etal-2023-language,  
-&emsp;  title = "Language Models for {G}erman Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training",  
-&emsp;  author = {Ansch{\"u}tz, Miriam  and Oehms, Joshua  and Wimmer, Thomas  and Jezierski, Bart{\l}omiej  and Groh, Georg},  
-&emsp;  booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",  
-&emsp;  month = jul,  
-&emsp;  year = "2023",  
-&emsp;  address = "Toronto, Canada",  
-&emsp;  publisher = "Association for Computational Linguistics",  
-&emsp;  url = "https://aclanthology.org/2023.findings-acl.74",  
-&emsp;  pages = "1147--1158",  
+    title = "Language Models for {G}erman Text Simplification: Overcoming Parallel Data Scarcity through Style-specific Pre-training",  
+    author = {Ansch{\"u}tz, Miriam  and Oehms, Joshua  and Wimmer, Thomas  and Jezierski, Bart{\l}omiej  and Groh, Georg},  
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",  
+    month = jul,  
+    year = "2023",  
+    address = "Toronto, Canada",  
+    publisher = "Association for Computational Linguistics",  
+    url = "https://aclanthology.org/2023.findings-acl.74",  
+    pages = "1147--1158",  
 }
+```
